@@ -1,0 +1,129 @@
+{
+    "wooden_age": {
+        "name": "Wooden Age",
+        "description": "Profile that triggers when the player gets to the wooden age.",
+        "rewards_to_enable": [
+            "Cobble_Gen",
+            "chancecubes:Arrow_Spray",
+            "chancecubes:Bookshelves",
+            "chancecubes:Cake",
+            "chancecubes:Cookie-splosion",
+            "chancecubes:EXP",
+            "chancecubes:EXP_Shower",
+            "chancecubes:Finding_Marlin",
+            "chancecubes:Finding_Nemo",
+            "chancecubes:Giga_Breaker",
+            "chancecubes:Half_Fishingrod",
+            "chancecubes:Hand_Enchant",
+            "chancecubes:No",
+            "chancecubes:No_Exp",
+            "chancecubes:One_Shot",
+            "chancecubes:Random_Status_Effect",
+            "chancecubes:Roosevelt's_Stick",
+            "chancecubes:Rotten_Food",
+            "chancecubes:Sail_Away",
+            "chancecubes:Saw_Nothing_Diamond",
+            "chancecubes:Smite",
+            "chancecubes:Table_Flip"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "chancecubes:giant_chance_cube"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:Arrow_Spray",
+                "chance_value": -65
+            },
+            {
+                "reward_name": "chancecubes:Smite",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Rotten_Food",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:No_Exp",
+                "chance_value": -15
+            },
+            {
+                "reward_name": "chancecubes:Random_Status_Effect",
+                "chance_value": -10
+            },
+            {
+                "reward_name": "chancecubes:No",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:Saw_Nothing_Diamond",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:Table_Flip",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:Half_Fishingrod",
+                "chance_value": 5
+            },
+            {
+                "reward_name": "chancecubes:Sail_Away",
+                "chance_value": 5
+            },
+            {
+                "reward_name": "chancecubes:Finding_Marlin",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:Finding_Nemo",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:Cake",
+                "chance_value": 20
+            },
+            {
+                "reward_name": "chancecubes:EXP",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:EXP_Shower",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "Cobble_Gen",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:Bookshelves",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:Cookie-splosion",
+                "chance_value": 65
+            },
+            {
+                "reward_name": "chancecubes:Hand_Enchant",
+                "chance_value": 80
+            },
+            {
+                "reward_name": "chancecubes:Giga_Breaker",
+                "chance_value": 90
+            },
+            {
+                "reward_name": "chancecubes:Roosevelt's_Stick",
+                "chance_value": 90
+            },
+            {
+                "reward_name": "chancecubes:One_Shot",
+                "chance_value": 90
+            }
+        ],
+        "sub_profiles": [
+            "initial_profile"
+        ]
+    }
+}

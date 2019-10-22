@@ -1,0 +1,246 @@
+{
+    "agricultural_age": {
+        "name": "Agricultural Age",
+        "description": "Profile that triggers when the player enters the agricultural age.",
+        "rewards_to_enable": [
+            "Iron_Golem",
+            "Mystical_AG_Starter_Pack",
+            "Mystical_AG_Tier_2_Inferium_Seeds",
+            "chancecubes:Anvil_Rain",
+            "chancecubes:Cuteness",
+            "chancecubes:DIY_Pie",
+            "chancecubes:Disco",
+            "chancecubes:Explosion",
+            "chancecubes:Fire_Aspect_Fire",
+            "chancecubes:Help_Me",
+            "chancecubes:Hot_Tub",
+            "chancecubes:Invisible_Creeper",
+            "chancecubes:Invisible_Ghasts",
+            "chancecubes:Notch",
+            "chancecubes:One_Man_Army",
+            "chancecubes:Pig_Of_Destiny",
+            "chancecubes:Poison",
+            "chancecubes:Rancher",
+            "chancecubes:Silverfish_Surround",
+            "chancecubes:Slime_Man",
+            "chancecubes:Spawn_Cluckington",
+            "chancecubes:Spawn_Dr_Trayaurus",
+            "chancecubes:Spawn_Glenn",
+            "chancecubes:Spawn_Jerry",
+            "chancecubes:Spawn_Pickles",
+            "chancecubes:Squid_Horde",
+            "chancecubes:Surrounded",
+            "chancecubes:Watch_World_Burn",
+            "chancecubes:Witch",
+            "chancecubes:Wither_Status_Effect",
+            "chancecubes:Wolves_To_Creepers"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/agricultural_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "Iron_Golem",
+                "chance_value": 55
+            },
+            {
+                "reward_name": "chancecubes:Anvil_Rain",
+                "chance_value": 45
+            },
+            {
+                "reward_name": "chancecubes:Knockback_Zombie",
+                "chance_value": -65
+            },
+            {
+                "reward_name": "chancecubes:Surrounded",
+                "chance_value": -65
+            },
+            {
+                "reward_name": "chancecubes:Wolves_To_Creepers",
+                "chance_value": -65
+            },
+            {
+                "reward_name": "chancecubes:Bedrock",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Invisible_Creeper",
+                "chance_value": -55
+            },
+            {
+                "reward_name": "chancecubes:Arrow_Trap",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:Arrow_Spray",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Poison",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Silverfish_Surround",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Witch",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:No_Exp",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:Horde",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:One_Man_Army",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:Squid_Horde",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Rotten_Food",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Watch_World_Burn",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Wither_Status_Effect",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Smite",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:Slime_Man",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:Troll_Hole",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Glenn",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:D-rude_SandStorm",
+                "chance_value": -10
+            },
+            {
+                "reward_name": "chancecubes:Help_Me",
+                "chance_value": -10
+            },
+            {
+                "reward_name": "chancecubes:Rain",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Troll_TNT",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Random_Status_Effect",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:Cuteness",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:Cake",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:Wool",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:Farmer",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Saplings",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:DIY_Pie",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Hot_Tub",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:EXP",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:EXP_Shower",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:Bookshelves",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Cookie-splosion",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Disco",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Pig_Of_Destiny",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Fire_Aspect_Fire",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Cluckington",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Dr_Trayaurus",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Jerry",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Giga_Breaker",
+                "chance_value": 70
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Pickles",
+                "chance_value": 80
+            },
+            {
+                "reward_name": "chancecubes:Rancher",
+                "chance_value": 90
+            },
+            {
+                "reward_name": "chancecubes:Notch",
+                "chance_value": 100
+            }
+        ],
+        "sub_profiles": [
+            "stone_age"
+        ]
+    }
+}

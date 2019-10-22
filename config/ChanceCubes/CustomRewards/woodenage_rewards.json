@@ -1,0 +1,195 @@
+{
+    "Cobble_Gen": {
+        "chance": 65,
+        "Block": [
+            {
+                "xOffSet": -2,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -2,
+                "yOffSet": 0,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -2,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 0,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 0,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 0,
+                "yOffSet": 0,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 0,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 1,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 1,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 0,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 0,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 0,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 0,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -2,
+                "yOffSet": 1,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -2,
+                "yOffSet": 1,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -2,
+                "yOffSet": 1,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 1,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 1,
+                "zOffSet": 0,
+                "block": "minecraft:flowing_lava",
+                "falling": true
+            },
+            {
+                "xOffSet": -1,
+                "yOffSet": 1,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 1,
+                "yOffSet": 1,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 1,
+                "yOffSet": 1,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 1,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 1,
+                "zOffSet": 0,
+                "block": "minecraft:flowing_water",
+                "falling": true
+            },
+            {
+                "xOffSet": 2,
+                "yOffSet": 1,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 1,
+                "zOffSet": -1,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 1,
+                "zOffSet": 0,
+                "block": "minecraft:glass"
+            },
+            {
+                "xOffSet": 3,
+                "yOffSet": 1,
+                "zOffSet": 1,
+                "block": "minecraft:glass"
+            }
+        ]
+    }
+}

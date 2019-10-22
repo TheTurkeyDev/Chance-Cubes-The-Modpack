@@ -1,0 +1,256 @@
+{
+    "stone_age": {
+        "name": "Iron Age",
+        "description": "Profile that triggers when the player enters the iron age.",
+        "rewards_to_enable": [
+            "Grains_Of_Infinity",
+            "AE_Power",
+            "Simple_Solar",
+            "Simple_Stirling_Generator",
+            "Base_Solar",
+            "chancecubes:Firework_Show",
+            "chancecubes:Ore_Pillars",
+            "chancecubes:Ore_Sphere",
+            "chancecubes:Raining_Potions",
+            "chancecubes:Boss_Demonic_Blaze",
+            "chancecubes:Boss_Evil_Witch",
+            "chancecubes:Boss_Mimic",
+            "chancecubes:Invizible_Silverfish",
+            "chancecubes:Surrounded_Creeper",
+            "chancecubes:Boss_Demonic_Blaze",
+            "chancecubes:Boss_Evil_Witch",
+            "chancecubes:Boss_Mimic",
+            "chancecubes:Explorer",
+            "chancecubes:Fighter",
+            "chancecubes:Guardians",
+            "chancecubes:Lingering_Potions_Ring",
+            "chancecubes:Mob_Tower",
+            "chancecubes:Silvermite_Stacks",
+            "chancecubes:Tic_Tac_Toe",
+            "chancecubes:Traveller"
+        ],
+        "rewards_to_disable": [
+            "chancecubes:Table_Flip",
+            "chancecubes:Half_Fishingrod",
+            "chancecubes:Sail_Away",
+            "Cobble_Gen"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/iron_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:Ore_Sphere",
+                "white_list": [
+                    "oreCoal",
+                    "oreIron"
+                ]
+            },
+            {
+                "reward_name": "chancecubes:Ore_Pillars",
+                "white_list": [
+                    "oreCoal",
+                    "oreIron"
+                ]
+            },
+            {
+                "reward_name": "chancecubes:Invizible_Silverfish",
+                "chance_value": -100
+            },
+            {
+                "reward_name": "chancecubes:Silvermite_Stacks",
+                "chance_value": -100
+            },
+            {
+                "reward_name": "chancecubes:Skeleton_Bats",
+                "chance_value": -95
+            },
+            {
+                "reward_name": "chancecubes:Mob_Tower",
+                "chance_value": -95
+            },
+            {
+                "reward_name": "chancecubes:Guardians",
+                "chance_value": -90
+            },
+            {
+                "reward_name": "chancecubes:Surrounded_Creeper",
+                "chance_value": -85
+            },
+            {
+                "reward_name": "chancecubes:Lingering_Potions_Ring",
+                "chance_value": -85
+            },
+            {
+                "reward_name": "chancecubes:Cave_Spider_Web",
+                "chance_value": -75
+            },
+            {
+                "reward_name": "chancecubes:Charged_Creeper",
+                "chance_value": -70
+            },
+            {
+                "reward_name": "chancecubes:Boss_Demonic_Blaze",
+                "chance_value": -70
+            },
+            {
+                "reward_name": "chancecubes:Boss_Evil_Witch",
+                "chance_value": -70
+            },
+            {
+                "reward_name": "chancecubes:Boss_Mimic",
+                "chance_value": -70
+            },
+            {
+                "reward_name": "chancecubes:Knockback_Zombie",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Invisible_Creeper",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:Thrown_In_Air",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:Lava_Ring",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:Poison",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:Silverfish_Surround",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:No_Exp",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:Arrow_Spray",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:One_Man_Army",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:Wither_Status_Effect",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:Cookie_Monster",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:Watch_World_Burn",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:Slime_Man",
+                "chance_value": -15
+            },
+            {
+                "reward_name": "chancecubes:Smite",
+                "chance_value": -15
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Glenn",
+                "chance_value": -10
+            },
+            {
+                "reward_name": "chancecubes:5_Prongs",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Help_Me",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Ice_Cold",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Item_Rename",
+                "chance_value": 5
+            },
+            {
+                "reward_name": "chancecubes:Cake",
+                "chance_value": 20
+            },
+            {
+                "reward_name": "chancecubes:Want_To_Build_A_Snowman",
+                "chance_value": 20
+            },
+            {
+                "reward_name": "chancecubes:Squid_Horde",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "chancecubes:DIY_Pie",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "chancecubes:Cookie-splosion",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Pig_Of_Destiny",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Traveller",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Disco",
+                "chance_value": 45
+            },
+            {
+                "reward_name": "Iron_Golem",
+                "chance_value": 45
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Cluckington",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Dr_Trayaurus",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Jerry",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "Mystical_AG_Starter_Pack",
+                "chance_value": 55
+            },
+            {
+                "reward_name": "chancecubes:Explorer",
+                "chance_value": 55
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Pickles",
+                "chance_value": 75
+            },
+            {
+                "reward_name": "chancecubes:Rancher",
+                "chance_value": 80
+            },
+            {
+                "reward_name": "chancecubes:Fighter",
+                "chance_value": 85
+            }
+        ],
+        "sub_profiles": [
+            "agricultural_age"
+        ]
+    }
+}

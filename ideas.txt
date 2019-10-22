@@ -1,0 +1,27 @@
+Start in Darkage
+    - Given a Chance Cubes Dispenser
+    - Given a Chance Cube Scanner
+    - Spawn on a bedrock platform w/ a Giant Chance Cubes spawned next to the player
+    - No natural Mob spawning (doMobLoot, doMobSpawning)
+    - No mob griefing
+
+
+Woodenage: Open Giant Chance Cube to advance into
+    - Chance Cubes enable wooden rewards
+
+
+
+Stoneage: Mine a piece of Stone or Cobble Stone
+    - Chance Cubes enable stone age rewards
+
+
+Agricultural age: Get Seeds
+    - Mobs now spawn, but no mob loot
+    -
+
+
+Ironage
+    - Mob griefing on
+    - Ores
+        - Coal
+        - Iron

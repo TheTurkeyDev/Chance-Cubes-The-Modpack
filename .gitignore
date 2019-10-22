@@ -1,0 +1,8 @@
+.curseclient
+usercache.json
+usernamecache.json
+.mixin.out/
+logs/
+mods/
+saves/
+crash-reports/

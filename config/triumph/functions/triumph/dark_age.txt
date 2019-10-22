@@ -1,0 +1,3 @@
+gamerule doMobLoot false
+gamerule doMobSpawning false
+gamerule mobGriefing false

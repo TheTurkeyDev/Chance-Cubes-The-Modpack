@@ -1,0 +1,108 @@
+{
+    "stone_age": {
+        "name": "Power Age",
+        "description": "Profile that triggers when the player enters the power age.",
+        "rewards_to_enable": [
+            "Simple_Machine_Chassis",
+            "Basic_Capacitor",
+            "Hopper"
+        ],
+        "rewards_to_disable": [
+            "chancecubes:Hearts",
+            "chancecubes:Path_To_Succeed",
+            "chancecubes:Finding_Marlin",
+            "chancecubes:Finding_Nemo",
+            "chancecubes:SpongeBob_SquarePants",
+            "chancecubes:Cookie-splosion",
+            "chancecubes:Giga_Breaker",
+            "chancecubes:Roosevelt's_Stick"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/power_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:Arrow_Spray",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:Smite",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Glenn",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:D-rude_SandStorm",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:5_Prongs",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:Help_Me",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:DIY_Pie",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:Pig_Of_Destiny",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "chancecubes:Disco",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "Iron_Golem",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:Bookshelves",
+                "chance_value": 55
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Cluckington",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Dr_Trayaurus",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Jerry",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "Mystical_AG_Starter_Pack",
+                "chance_value": 45
+            },
+            {
+                "reward_name": "chancecubes:Spawn_Pickles",
+                "chance_value": 70
+            },
+            {
+                "reward_name": "chancecubes:Hand_Enchant",
+                "chance_value": 70
+            },
+            {
+                "reward_name": "chancecubes:Rancher",
+                "chance_value": 75
+            },
+            {
+                "reward_name": "Mystical_AG_Tier_2_Inferium_Seeds",
+                "chance_value": 75
+            }
+        ],
+        "sub_profiles": [
+            "iron_age"
+        ]
+    }
+}

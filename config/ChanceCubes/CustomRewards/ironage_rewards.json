@@ -1,0 +1,72 @@
+{
+    "Grains_Of_Infinity": {
+        "chance": 70,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:item_material",
+                    "damage": 20,
+                    "Count": 4
+                }
+            }
+        ]
+    },
+    "AE_Power": {
+        "chance": 80,
+        "Item": [
+            {
+                "item": {
+                    "id": "appliedenergistics2:crank",
+                    "Count": 1
+                }
+            },
+            {
+                "item": {
+                    "id": "appliedenergistics2:charger",
+                    "Count": 1
+                }
+            },
+            {
+                "item": {
+                    "id": "appliedenergistics2:energy_cell",
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Simple_Solar": {
+        "chance": 85,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:block_solar_panel",
+                    "damage": 0,
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Simple_Stirling_Generator": {
+        "chance": 90,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:block_simple_stirling_generator",
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Base_Solar": {
+        "chance": 100,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:block_solar_panel",
+                    "damage": 1,
+                    "Count": 1
+                }
+            }
+        ]
+    }
+}

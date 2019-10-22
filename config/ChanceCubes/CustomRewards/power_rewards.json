@@ -1,0 +1,37 @@
+{
+    "Simple_Machine_Chassis": {
+        "chance": 85,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:item_material",
+                    "damage": 0,
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Basic_Capacitor": {
+        "chance": 65,
+        "Item": [
+            {
+                "item": {
+                    "id": "enderio:item_basic_capacitor",
+                    "damage": 0,
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Hopper": {
+        "chance": 35,
+        "Item": [
+            {
+                "item": {
+                    "id": "minecraft:hopper",
+                    "Count": 1
+                }
+            }
+        ]
+    },
+}
