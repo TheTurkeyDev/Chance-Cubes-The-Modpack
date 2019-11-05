@@ -1,6 +1,6 @@
-setIcon(<minecraft:redstone>)
+setIcon(<enderio:item_material>)
 setTitle("Industrial Age")
-setDescription("MACHINES!")
+setDescription("MACHINES!\n-Obtain a hopper, a chassis, or a basic capacitor")
 addParent("triumph:progress/powerage")
 setRequiresParents()
 setPos(300,0)

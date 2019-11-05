@@ -27,7 +27,8 @@
             "chancecubes:Mob_Tower",
             "chancecubes:Silvermite_Stacks",
             "chancecubes:Tic_Tac_Toe",
-            "chancecubes:Traveller"
+            "chancecubes:Traveller",
+            "Power_Cube"
         ],
         "rewards_to_disable": [
             "chancecubes:Table_Flip",

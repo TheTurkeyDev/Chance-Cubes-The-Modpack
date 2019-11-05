@@ -643,6 +643,311 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+sonarcore:reinforcedstoneblock, Reinforced Stone
+sonarcore:reinforcedstonestairs, Reinforced Stone Stairs
+sonarcore:reinforcedstonefence, Reinforced Stone Fence
+sonarcore:reinforcedstonegate, Reinforced Stone Gate
+sonarcore:reinforcedstonebrick, Reinforced Stone Brick
+sonarcore:reinforcedstonebrickstairs, Reinforced Stone Brick Stairs
+sonarcore:reinforcedstonebrickfence, Reinforced Stone Brick Fence
+sonarcore:reinforcedstonebrickgate, Reinforced Stone Brick Gate
+sonarcore:reinforceddirtblock, Reinforced Dirt
+sonarcore:reinforceddirtstairs, Reinforced Dirt Stairs
+sonarcore:reinforceddirtfence, Reinforced Dirt Fence
+sonarcore:reinforceddirtgate, Reinforced Dirt Gate
+sonarcore:reinforceddirtbrick, Reinforced Dirt Brick
+sonarcore:reinforceddirtbrickstairs, Reinforced Dirt Brick Stairs
+sonarcore:reinforceddirtbrickfence, Reinforced Dirt Brick Fence
+sonarcore:reinforceddirtbrickgate, Reinforced Dirt Brick Gate
+sonarcore:stablestone_normal, Stable Stone
+sonarcore:stablestonerimmed_normal, Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_normal, Rimmed Black Stable Stone
+sonarcore:stablestone_black, Black Stable Stone
+sonarcore:stablestonerimmed_black, Black Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_black, Black Rimmed Black Stable Stone
+sonarcore:stablestone_blue, Blue Stable Stone
+sonarcore:stablestonerimmed_blue, Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_blue, Blue Rimmed Black Stable Stone
+sonarcore:stablestone_brown, Brown Stable Stone
+sonarcore:stablestonerimmed_brown, Brown Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_brown, Brown Rimmed Black Stable Stone
+sonarcore:stablestone_cyan, Cyan Stable Stone
+sonarcore:stablestonerimmed_cyan, Cyan Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_cyan, Cyan Rimmed Black Stable Stone
+sonarcore:stablestone_green, Green Stable Stone
+sonarcore:stablestonerimmed_green, Green Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_green, Green Rimmed Black Stable Stone
+sonarcore:stablestone_lightblue, Light Blue Stable Stone
+sonarcore:stablestonerimmed_lightblue, Light Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightblue, Light Blue Rimmed Black Stable Stone
+sonarcore:stablestone_lightgrey, Light Stable Stone
+sonarcore:stablestonerimmed_lightgrey, Light Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightgrey, Light Rimmed Black Stable Stone
+sonarcore:stablestone_lime, Lime Stable Stone
+sonarcore:stablestonerimmed_lime, Lime Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lime, Lime Rimmed Black Stable Stone
+sonarcore:stablestone_magenta, Magenta Stable Stone
+sonarcore:stablestonerimmed_magenta, Magenta Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_magenta, Magenta Rimmed Black Stable Stone
+sonarcore:stablestone_orange, Orange Stable Stone
+sonarcore:stablestonerimmed_orange, Orange Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_orange, Orange Rimmed Black Stable Stone
+sonarcore:stablestone_pink, Pink Stable Stone
+sonarcore:stablestonerimmed_pink, Pink Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_pink, Pink Rimmed Black Stable Stone
+sonarcore:stablestone_plain, Plain Stable Stone
+sonarcore:stablestonerimmed_plain, Plain Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_plain, Plain Rimmed Black Stable Stone
+sonarcore:stablestone_purple, Purple Stable Stone
+sonarcore:stablestonerimmed_purple, Purple Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_purple, Purple Rimmed Black Stable Stone
+sonarcore:stablestone_red, Red Stable Stone
+sonarcore:stablestonerimmed_red, Red Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_red, Red Rimmed Black Stable Stone
+sonarcore:stablestone_yellow, Yellow Stable Stone
+sonarcore:stablestonerimmed_yellow, Yellow Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_yellow, Yellow Rimmed Black  Stable Stone
+sonarcore:stableglass, Stable Glass
+sonarcore:clearstableglass, Clear Stable Glass
+calculator:flawlessglass, Flawless Glass
+calculator:purifiedobsidian, Purified Obsidian
+calculator:powercube, Power Cube
+calculator:advancedpowercube, Advanced Power Cube
+calculator:creativepowercube, Creative Power Cube
+calculator:atomiccalculator, Atomic Calculator
+calculator:dynamiccalculator, Dynamic Calculator
+calculator:moduleworkstation, Module Workstation
+calculator:reinforcedfurnace, Reinforced Furnace
+calculator:reinforcedchest, Reinforced Chest
+calculator:stoneseparator, Stone Separator
+calculator:algorithmseparator, Algorithm Separator
+calculator:hungerprocessor, Hunger Processor
+calculator:healthprocessor, Health Processor
+calculator:amethystpiping, Amethyst Piping
+calculator:tanzanitepiping, Tanzanite Piping
+calculator:dockingstation, Docking Station
+calculator:atomicmultiplier, Atomic Multiplier
+calculator:extractionchamber, Extraction Chamber
+calculator:restorationchamber, Restoration Chamber
+calculator:reassemblychamber, Reassembly Chamber
+calculator:precisionchamber, Precision Chamber
+calculator:processingchamber, Processing Chamber
+calculator:analysingchamber, Analysing Chamber
+calculator:storagechamber, Storage Chamber
+calculator:fabricationchamber, Fabrication Chamber
+calculator:basicgreenhouse, Basic Greenhouse
+calculator:advancedgreenhouse, Advanced Greenhouse
+calculator:flawlessgreenhouse, Flawless Greenhouse
+calculator:co2generator, Carbon Dioxide Generator
+calculator:calculatorlocator, Calculator Locator
+calculator:calculatorplug, Calculator Plug
+calculator:conductormast, Conductor Mast
+calculator:conductormastblock, Conductor Mast
+calculator:weatherstation, Weather Station
+calculator:weatherstationblock, Weather Station
+calculator:transmitter, Transmitter
+calculator:transmitterblock, Transmitter
+calculator:starchextractor, Starch Extractor
+calculator:redstoneextractor, Redstone Extractor
+calculator:glowstoneextractor, Glowstone Extractor
+calculator:handcrankedgenerator, Hand Cranked Generator
+calculator:crankhandle, Crank Handle
+calculator:magneticflux, Magnetic Flux
+calculator:weathercontroller, Weather Controller
+calculator:rainsensor, Rain Sensor
+calculator:stoneassimilator, Stone Assimilator
+calculator:algorithmassimilator, Algorithm Assimilator
+calculator:gaslanternoff, Gas Lantern
+calculator:gaslanternon, Gas Lantern
+calculator:lantern, Lantern
+calculator:scarecrow, Scarecrow
+calculator:scarecrowblock, Scarecrow
+calculator:amethystlog, Amethyst Wood
+calculator:amethystplanks, Amethyst Planks
+calculator:amethyststairs, Amethyst Stairs
+calculator:amethystfence, Amethyst Fence
+calculator:amethystleaves, Amethyst Leaves
+calculator:amethystsapling, Amethyst Sapling
+calculator:tanzanitelog, Tanzanite Wood
+calculator:tanzaniteplanks, Tanzanite Planks
+calculator:tanzanitestairs, Tanzanite Stairs
+calculator:tanzanitefence, Tanzanite Fence
+calculator:tanzaniteleaves, Tanzanite Leaves
+calculator:tanzanitesapling, Tanzanite Sapling
+calculator:pearlog, Pear Wood
+calculator:pearplanks, Pear Planks
+calculator:pearstairs, Pear Stairs
+calculator:pearfence, Pear Fence
+calculator:pearleaves, Pear Leaves
+calculator:pearsapling, Pear Sapling
+calculator:diamondlog, Diamond Wood
+calculator:diamondplanks, Diamond Planks
+calculator:diamondstairs, Diamond Stairs
+calculator:diamondfence, Diamond Fence
+calculator:diamondleaves, Diamond Leaves
+calculator:diamondsapling, Diamond Sapling
+calculator:calculatorscreenblock, tile.CalculatorScreenBlock.name
+calculator:material:0, Amethyst Block
+calculator:material:1, Tanzanite Block
+calculator:material:2, Enriched Gold Block
+calculator:material:3, Reinforced Iron Block
+calculator:material:4, Weakened Diamond Block
+calculator:material:5, Flawless Diamond Block
+calculator:material:6, Fire Diamond Block
+calculator:material:7, Electric Diamond Block
+calculator:material:8, End Diamond Block
+calculator:material:9, Redstone Ingot Block
+calculator:cropbroccoli, Broccoli Plant
+calculator:cropprunae, Prunae Plant
+calculator:cropfiddledew, Fiddledew Plant
+calculator:infocalculator, Info Calculator
+calculator:calculator, Calculator
+calculator:craftingcalculator, Crafting Calculator
+calculator:scientificcalculator, Scientific Calculator
+calculator:flawlesscalculator, Flawless Calculator
+calculator:storagemodule, Storage Module
+calculator:warpmodule, Warp Module
+calculator:jumpmodule, Jump Module
+calculator:hungermodule, Hunger Module
+calculator:healthmodule, Health Module
+calculator:nutritionmodule, Nutrition Module
+calculator:terrainmodule, Basic Terrain Module
+calculator:advancedterrainmodule, Advanced Terrain Module
+calculator:energymodule, Energy Module
+calculator:locatormodule, Locator Module
+calculator:soil, Soil
+calculator:smallstone, Small Stone
+calculator:speedupgrade, Speed Upgrade
+calculator:energyupgrade, Energy Upgrade
+calculator:voidupgrade, Void Upgrade
+calculator:transferupgrade, Transfer Upgrade
+calculator:calculatorscreen, Calculator Screen
+calculator:calculatorassembly, Calculator Assembly
+calculator:advancedassembly, Advanced Assembly
+calculator:atomicmodule, Atomic Module
+calculator:atomicassembly, Atomic Assembly
+calculator:flawlessassembly, Flawless Assembly
+calculator:atomicbinder, Atomic Binder
+calculator:wrench, Wrench
+calculator:sickle, Sickle
+calculator:obsidiankey, Obsidian Key
+calculator:reinforcedsword, Reinforced Sword
+calculator:enrichedgoldsword, Enriched Gold Sword
+calculator:reinforcedironsword, Reinforced Iron Sword
+calculator:redstonesword, Redstone Sword
+calculator:weakeneddiamondsword, Weakened Diamond Sword
+calculator:flawlessdiamondsword, Flawless Diamond Sword
+calculator:firediamondsword, Fire Diamond Sword
+calculator:electricsword, Electric Sword
+calculator:endforgedsword, End Forged Sword
+calculator:reinforcedpickaxe, Reinforced Pickaxe
+calculator:enrichedgoldpickaxe, Enriched Gold Pickaxe
+calculator:reinforcedironpickaxe, Reinforced Iron Pickaxe
+calculator:redstonepickaxe, Redstone Pickaxe
+calculator:weakeneddiamondpickaxe, Weakened Diamond Pickaxe
+calculator:flawlessdiamondpickaxe, Flawless Diamond Pickaxe
+calculator:firediamondpickaxe, Fire Diamond Pickaxe
+calculator:electricpickaxe, Electric Pickaxe
+calculator:endforgedpickaxe, End Forged Pickaxe
+calculator:reinforcedaxe, Reinforced Axe
+calculator:enrichedgoldaxe, Enriched Gold Axe
+calculator:reinforcedironaxe, Reinforced Iron Axe
+calculator:redstoneaxe, Redstone Axe
+calculator:weakeneddiamondaxe, Weakened Diamond Axe
+calculator:flawlessdiamondaxe, Flawless Diamond Axe
+calculator:firediamondaxe, Fire Diamond Axe
+calculator:electricaxe, Electric Axe
+calculator:endforgedaxe, End Forged Axe
+calculator:reinforcedshovel, Reinforced Shovel
+calculator:enrichedgoldshovel, Enriched Gold Shovel
+calculator:reinforcedironshovel, Reinforced Iron Shovel
+calculator:redstoneshovel, Redstone Shovel
+calculator:weakeneddiamondshovel, Weakened Diamond Shovel
+calculator:flawlessdiamondshovel, Flawless Diamond Shovel
+calculator:firediamondshovel, Fire Diamond Shovel
+calculator:electricshovel, Electric Shovel
+calculator:endforgedshovel, End Forged Shovel
+calculator:reinforcedhoe, Reinforced Hoe
+calculator:enrichedgoldhoe, Enriched Gold Hoe
+calculator:reinforcedironhoe, Reinforced Iron Hoe
+calculator:redstonehoe, Redstone Hoe
+calculator:weakeneddiamondhoe, Weakened Diamond Hoe
+calculator:flawlessdiamondhoe, Flawless Diamond Hoe
+calculator:firediamondhoe, Fire Diamond Hoe
+calculator:electrichoe, Electric Hoe
+calculator:endforgedhoe, End Forged Hoe
+calculator:enrichedgold,  Enriched Gold
+calculator:enrichedgoldingot,  Enriched Gold Ingot
+calculator:reinforcedironingot, Reinforced Iron Ingot
+calculator:redstoneingot, Redstone Ingot
+calculator:weakeneddiamond, Weakened Diamond
+calculator:flawlessdiamond, Flawless Diamond
+calculator:firediamond, Fire Diamond
+calculator:electricdiamond, Electric Diamond
+calculator:enddiamond, End Diamond
+calculator:largeamethyst, Large Amethyst
+calculator:smallamethyst, Amethyst
+calculator:shardamethyst, Amethyst Shard
+calculator:largetanzanite, Large Tanzanite
+calculator:smalltanzanite, Tanzanite
+calculator:shardtanzanite, Tanzanite Shard
+calculator:broccoliseeds, Broccoli Seeds
+calculator:prunaeseeds, Prunae Seeds
+calculator:fiddledewfruit, Fiddledew Fruit
+calculator:broccoli, Broccoli
+calculator:pear, Pear
+calculator:rottenpear, Rotten Pear
+calculator:cookedbroccoli, Cooked Broccoli
+calculator:coaldust, Coal Dust
+calculator:enrichedcoal, Enriched Coal
+calculator:purifiedcoal, Purified Coal
+calculator:firecoal, Fire Coal
+calculator:controlledfuel, Controlled Fuel
+calculator:grenadecasing, Grenade Casing
+calculator:babygrenade, Baby Grenade
+calculator:grenade, Grenade
+calculator:circuitboard:0, Circuit 1
+calculator:circuitboard:1, Circuit 2
+calculator:circuitboard:2, Circuit 3
+calculator:circuitboard:3, Circuit 4
+calculator:circuitboard:4, Circuit 5
+calculator:circuitboard:5, Circuit 6
+calculator:circuitboard:6, Circuit 7
+calculator:circuitboard:7, Circuit 8
+calculator:circuitboard:8, Circuit 9
+calculator:circuitboard:9, Circuit 10
+calculator:circuitboard:10, Circuit 11
+calculator:circuitboard:11, Circuit 12
+calculator:circuitboard:12, Circuit 13
+calculator:circuitboard:13, Circuit 14
+calculator:circuitdamaged:0, Damaged Circuit 1
+calculator:circuitdamaged:1, Damaged Circuit 2
+calculator:circuitdamaged:2, Damaged Circuit 3
+calculator:circuitdamaged:3, Damaged Circuit 4
+calculator:circuitdamaged:4, Damaged Circuit 5
+calculator:circuitdamaged:5, Damaged Circuit 6
+calculator:circuitdamaged:6, Damaged Circuit 7
+calculator:circuitdamaged:7, Damaged Circuit 8
+calculator:circuitdamaged:8, Damaged Circuit 9
+calculator:circuitdamaged:9, Damaged Circuit 10
+calculator:circuitdamaged:10, Damaged Circuit 11
+calculator:circuitdamaged:11, Damaged Circuit 12
+calculator:circuitdamaged:12, Damaged Circuit 13
+calculator:circuitdamaged:13, Damaged Circuit 14
+calculator:circuitdirty:0, Dirty Circuit 1
+calculator:circuitdirty:1, Dirty Circuit 2
+calculator:circuitdirty:2, Dirty Circuit 3
+calculator:circuitdirty:3, Dirty Circuit 4
+calculator:circuitdirty:4, Dirty Circuit 5
+calculator:circuitdirty:5, Dirty Circuit 6
+calculator:circuitdirty:6, Dirty Circuit 7
+calculator:circuitdirty:7, Dirty Circuit 8
+calculator:circuitdirty:8, Dirty Circuit 9
+calculator:circuitdirty:9, Dirty Circuit 10
+calculator:circuitdirty:10, Dirty Circuit 11
+calculator:circuitdirty:11, Dirty Circuit 12
+calculator:circuitdirty:12, Dirty Circuit 13
+calculator:circuitdirty:13, Dirty Circuit 14
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -953,6 +1258,81 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Reinforced Stone
+appliedenergistics2:facade:0, Cable Facade - Reinforced Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Reinforced Dirt
+appliedenergistics2:facade:0, Cable Facade - Reinforced Dirt Brick
+appliedenergistics2:facade:0, Cable Facade - Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Black Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Black Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Blue Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Blue Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Blue Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Brown Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Brown Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Brown Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Cyan Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Cyan Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Cyan Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Green Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Green Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Green Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Blue Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Blue Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Blue Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Light Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Lime Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Lime Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Lime Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Magenta Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Magenta Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Magenta Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Orange Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Orange Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Orange Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Pink Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Pink Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Pink Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Plain Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Plain Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Plain Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Purple Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Purple Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Purple Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Red Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Red Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Red Rimmed Black Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Yellow Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Yellow Rimmed Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Yellow Rimmed Black  Stable Stone
+appliedenergistics2:facade:0, Cable Facade - Purified Obsidian
+appliedenergistics2:facade:0, Cable Facade - Amethyst Wood
+appliedenergistics2:facade:0, Cable Facade - Amethyst Planks
+appliedenergistics2:facade:0, Cable Facade - Amethyst Leaves
+appliedenergistics2:facade:0, Cable Facade - Tanzanite Wood
+appliedenergistics2:facade:0, Cable Facade - Tanzanite Planks
+appliedenergistics2:facade:0, Cable Facade - Tanzanite Leaves
+appliedenergistics2:facade:0, Cable Facade - Pear Wood
+appliedenergistics2:facade:0, Cable Facade - Pear Planks
+appliedenergistics2:facade:0, Cable Facade - Pear Leaves
+appliedenergistics2:facade:0, Cable Facade - Diamond Wood
+appliedenergistics2:facade:0, Cable Facade - Diamond Planks
+appliedenergistics2:facade:0, Cable Facade - Diamond Leaves
+appliedenergistics2:facade:0, Cable Facade - Amethyst Block
+appliedenergistics2:facade:0, Cable Facade - Tanzanite Block
+appliedenergistics2:facade:0, Cable Facade - Enriched Gold Block
+appliedenergistics2:facade:0, Cable Facade - Reinforced Iron Block
+appliedenergistics2:facade:0, Cable Facade - Weakened Diamond Block
+appliedenergistics2:facade:0, Cable Facade - Flawless Diamond Block
+appliedenergistics2:facade:0, Cable Facade - Fire Diamond Block
+appliedenergistics2:facade:0, Cable Facade - Electric Diamond Block
+appliedenergistics2:facade:0, Cable Facade - End Diamond Block
+appliedenergistics2:facade:0, Cable Facade - Redstone Ingot Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -1051,6 +1431,36 @@ appliedenergistics2:facade:0, Cable Facade - Witherproof Block
 appliedenergistics2:facade:0, Cable Facade - Charcoal Block
 appliedenergistics2:facade:0, Cable Facade - Flint Block
 appliedenergistics2:facade:0, Cable Facade - Compact Giant Chance Cube
+appliedenergistics2:facade:0, Cable Facade - Litherite
+appliedenergistics2:facade:0, Cable Facade - Litherite Paver
+appliedenergistics2:facade:0, Cable Facade - Litherite Bricks
+appliedenergistics2:facade:0, Cable Facade - Litherite Tiles
+appliedenergistics2:facade:0, Cable Facade - Erodium
+appliedenergistics2:facade:0, Cable Facade - Erodium Paver
+appliedenergistics2:facade:0, Cable Facade - Erodium Bricks
+appliedenergistics2:facade:0, Cable Facade - Erodium Tiles
+appliedenergistics2:facade:0, Cable Facade - Kyronite
+appliedenergistics2:facade:0, Cable Facade - Kyronite Paver
+appliedenergistics2:facade:0, Cable Facade - Kyronite Bricks
+appliedenergistics2:facade:0, Cable Facade - Kyronite Tiles
+appliedenergistics2:facade:0, Cable Facade - Pladium
+appliedenergistics2:facade:0, Cable Facade - Pladium Paver
+appliedenergistics2:facade:0, Cable Facade - Pladium Bricks
+appliedenergistics2:facade:0, Cable Facade - Pladium Tiles
+appliedenergistics2:facade:0, Cable Facade - Ionite
+appliedenergistics2:facade:0, Cable Facade - Ionite Paver
+appliedenergistics2:facade:0, Cable Facade - Ionite Bricks
+appliedenergistics2:facade:0, Cable Facade - Ionite Tiles
+appliedenergistics2:facade:0, Cable Facade - Aethium
+appliedenergistics2:facade:0, Cable Facade - Aethium Paver
+appliedenergistics2:facade:0, Cable Facade - Aethium Bricks
+appliedenergistics2:facade:0, Cable Facade - Aethium Tiles
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Paver
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Bricks
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Tiles
+appliedenergistics2:facade:0, Cable Facade - Mica
+appliedenergistics2:facade:0, Cable Facade - Interconnect
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -2277,3 +2687,619 @@ chancecubes:giant_chance_cube, Giant Chance Cube
 chancecubes:compact_giant_chance_cube, Compact Giant Chance Cube
 chancecubes:cube_dispenser, Chance Cube Dispenser
 chancecubes:scanner, Chance Cube Scanner
+chiselsandbits:chisel_stone, Stone Chisel
+chiselsandbits:chisel_iron, Iron Chisel
+chiselsandbits:chisel_gold, Golden Chisel
+chiselsandbits:chisel_diamond, Diamond Chisel
+chiselsandbits:positiveprint, Positive Chisel Design
+chiselsandbits:negativeprint, Negative Chisel Design
+chiselsandbits:mirrorprint, Mirror Chisel Design
+chiselsandbits:bit_bag, Chiseled Bit Bag
+chiselsandbits:wrench_wood, Wooden Wrench
+chiselsandbits:bitsaw_diamond, Diamond Bit Saw
+chiselsandbits:block_bit:0, Chiseled Bit - Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Grass Block
+chiselsandbits:block_bit:0, Chiseled Bit - Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Coarse Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Sand
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sand
+chiselsandbits:block_bit:0, Chiseled Bit - Gravel
+chiselsandbits:block_bit:0, Chiseled Bit - Gold Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Iron Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Coal Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Sponge
+chiselsandbits:block_bit:0, Chiseled Bit - Wet Sponge
+chiselsandbits:block_bit:0, Chiseled Bit - Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Lapis Lazuli Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Lapis Lazuli Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Smooth Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - White Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Green Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Red Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Black Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Iron
+chiselsandbits:block_bit:0, Chiseled Bit - Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Obsidian
+chiselsandbits:block_bit:0, Chiseled Bit - Diamond Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Diamond
+chiselsandbits:block_bit:0, Chiseled Bit - Crafting Table
+chiselsandbits:block_bit:0, Chiseled Bit - Redstone Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Ice
+chiselsandbits:block_bit:0, Chiseled Bit - Snow
+chiselsandbits:block_bit:0, Chiseled Bit - Clay
+chiselsandbits:block_bit:0, Chiseled Bit - Netherrack
+chiselsandbits:block_bit:0, Chiseled Bit - Glowstone
+chiselsandbits:block_bit:0, Chiseled Bit - White Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Green Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Red Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Mossy Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Cracked Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Melon
+chiselsandbits:block_bit:0, Chiseled Bit - Mycelium
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - End Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Redstone Lamp
+chiselsandbits:block_bit:0, Chiseled Bit - Emerald Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Emerald
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Redstone
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Quartz Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - Pillar Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - White Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Green Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Red Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Black Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Leaves
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Prismarine
+chiselsandbits:block_bit:0, Chiseled Bit - Prismarine Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Prismarine
+chiselsandbits:block_bit:0, Chiseled Bit - Sea Lantern
+chiselsandbits:block_bit:0, Chiseled Bit - Hay Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal
+chiselsandbits:block_bit:0, Chiseled Bit - Packed Ice
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Red Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Smooth Red Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Purpur Block
+chiselsandbits:block_bit:0, Chiseled Bit - Purpur Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - End Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Wart Block
+chiselsandbits:block_bit:0, Chiseled Bit - Red Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Bone Block Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Observer Down
+chiselsandbits:block_bit:0, Chiseled Bit - White Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Green Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Red Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - Black Glazed Terracotta South
+chiselsandbits:block_bit:0, Chiseled Bit - White Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Green Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Red Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - White Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Green Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Red Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Dirt Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Black Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Black Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Green Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Green Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Green Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Light Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Plain Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Plain Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Plain Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Rimmed Black Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Rimmed Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Rimmed Black  Stable Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Amethyst Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Amethyst Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Tanzanite Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Tanzanite Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Pear Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Pear Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Diamond Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Diamond Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Amethyst Block
+chiselsandbits:block_bit:0, Chiseled Bit - Tanzanite Block
+chiselsandbits:block_bit:0, Chiseled Bit - Enriched Gold Block
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Iron Block
+chiselsandbits:block_bit:0, Chiseled Bit - Weakened Diamond Block
+chiselsandbits:block_bit:0, Chiseled Bit - Flawless Diamond Block
+chiselsandbits:block_bit:0, Chiseled Bit - Fire Diamond Block
+chiselsandbits:block_bit:0, Chiseled Bit - Electric Diamond Block
+chiselsandbits:block_bit:0, Chiseled Bit - End Diamond Block
+chiselsandbits:block_bit:0, Chiseled Bit - Redstone Ingot Block
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Pillar East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Certus Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - Quartz Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Vibrant Quartz Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Charged Quartz Fixture Down
+chiselsandbits:block_bit:0, Chiseled Bit - Fluix Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Small Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Tiny TNT
+chiselsandbits:block_bit:0, Chiseled Bit - Electrical Steel Block
+chiselsandbits:block_bit:0, Chiseled Bit - Energetic Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Vibrant Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Redstone Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Conductive Iron Block
+chiselsandbits:block_bit:0, Chiseled Bit - Pulsating Iron Block
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Steel Block
+chiselsandbits:block_bit:0, Chiseled Bit - Soularium Block
+chiselsandbits:block_bit:0, Chiseled Bit - End Steel Block
+chiselsandbits:block_bit:0, Chiseled Bit - Iron Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Infinity Dust Block
+chiselsandbits:block_bit:0, Chiseled Bit - Compressed Infinity Dust Block
+chiselsandbits:block_bit:0, Chiseled Bit - Double Compressed Infinity Dust Block
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Obsidian
+chiselsandbits:block_bit:0, Chiseled Bit - Alloy Smelter (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Item Buffer (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Power Buffer (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Omni Buffer (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Creative Buffer (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Crafter (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Painting Machine (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Power Monitor (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - SAG Mill (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Slice'N'Splice (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Stirling Generator (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Fluid Tank (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Pressurized Fluid Tank (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Travel Anchor (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Vacuum Chest (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Wireless Charger (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - XP Vacuum (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Simple Alloy Smelter (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Simple Stirling Generator (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Wired Charger (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Simple Sagmill (decoration block) South
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Insulation
+chiselsandbits:block_bit:0, Chiseled Bit - Crude Steel Block
+chiselsandbits:block_bit:0, Chiseled Bit - Crystalline Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Melodic Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Stellar Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Crystalline Pink Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Energetic Silver Block
+chiselsandbits:block_bit:0, Chiseled Bit - Vivid Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - §eBlock of Inferium Essence
+chiselsandbits:block_bit:0, Chiseled Bit - §aBlock of Prudentium Essence
+chiselsandbits:block_bit:0, Chiseled Bit - §6Block of Intermedium Essence
+chiselsandbits:block_bit:0, Chiseled Bit - §bBlock of Superium Essence
+chiselsandbits:block_bit:0, Chiseled Bit - §cBlock of Supremium Essence
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Prosperity
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Base Essence
+chiselsandbits:block_bit:0, Chiseled Bit - §eBlock of Inferium
+chiselsandbits:block_bit:0, Chiseled Bit - §aBlock of Prudentium
+chiselsandbits:block_bit:0, Chiseled Bit - §6Block of Intermedium
+chiselsandbits:block_bit:0, Chiseled Bit - §bBlock of Superium
+chiselsandbits:block_bit:0, Chiseled Bit - §cBlock of Supremium
+chiselsandbits:block_bit:0, Chiseled Bit - §dBlock of Soulium
+chiselsandbits:block_bit:0, Chiseled Bit - §eBlock of Inferium Coal
+chiselsandbits:block_bit:0, Chiseled Bit - §aBlock of Prudentium Coal
+chiselsandbits:block_bit:0, Chiseled Bit - §6Block of Intermedium Coal
+chiselsandbits:block_bit:0, Chiseled Bit - §bBlock of Superium Coal
+chiselsandbits:block_bit:0, Chiseled Bit - §cBlock of Supremium Coal
+chiselsandbits:block_bit:0, Chiseled Bit - Cobbled Soulstone
+chiselsandbits:block_bit:0, Chiseled Bit - Cobbled Soulstone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Soulstone
+chiselsandbits:block_bit:0, Chiseled Bit - Soulstone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Cracked Soulstone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Soulstone
+chiselsandbits:block_bit:0, Chiseled Bit - Soulstone Slab Block
+chiselsandbits:block_bit:0, Chiseled Bit - Prosperity Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Prosperity Ore
+chiselsandbits:block_bit:0, Chiseled Bit - End Prosperity Ore
+chiselsandbits:block_bit:0, Chiseled Bit - §eInferium Ore
+chiselsandbits:block_bit:0, Chiseled Bit - §eNether Inferium Ore
+chiselsandbits:block_bit:0, Chiseled Bit - §eEnd Inferium Ore
+chiselsandbits:block_bit:0, Chiseled Bit - §eGrowth Accelerator
+chiselsandbits:block_bit:0, Chiseled Bit - Witherproof Block
+chiselsandbits:block_bit:0, Chiseled Bit - Charcoal Block
+chiselsandbits:block_bit:0, Chiseled Bit - Flint Block
+chiselsandbits:block_bit:0, Chiseled Bit - Compact Giant Chance Cube
+chiselsandbits:block_bit:0, Chiseled Bit - Litherite
+chiselsandbits:block_bit:0, Chiseled Bit - Litherite Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Litherite Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Litherite Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Erodium
+chiselsandbits:block_bit:0, Chiseled Bit - Erodium Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Erodium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Erodium Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Kyronite
+chiselsandbits:block_bit:0, Chiseled Bit - Kyronite Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Kyronite Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Kyronite Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Pladium
+chiselsandbits:block_bit:0, Chiseled Bit - Pladium Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Pladium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Pladium Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Ionite
+chiselsandbits:block_bit:0, Chiseled Bit - Ionite Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Ionite Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Ionite Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Aethium
+chiselsandbits:block_bit:0, Chiseled Bit - Aethium Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Aethium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Aethium Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Lonsdaleite
+chiselsandbits:block_bit:0, Chiseled Bit - Lonsdaleite Paver
+chiselsandbits:block_bit:0, Chiseled Bit - Lonsdaleite Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Lonsdaleite Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Interconnect
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:tape_measure, Tape Measure
+chiselsandbits:bittank, Chiseled Fluid Bit Tank
+chiselsandbits:chiseled_wood, Chiseled Wood
+chiselsandbits:chiseled_rock, Chiseled Rock
+chiselsandbits:chiseled_iron, Chiseled Metal
+chiselsandbits:chiseled_cloth, Chiseled Cloth
+chiselsandbits:chiseled_ice, Chiseled Ice
+chiselsandbits:chiseled_packedice, Chiseled Packed Ice
+chiselsandbits:chiseled_clay, Chiseled Clay
+chiselsandbits:chiseled_glass, Chiseled Glass
+chiselsandbits:chiseled_sand, Chiseled Sand
+chiselsandbits:chiseled_ground, Chiseled Ground
+chiselsandbits:chiseled_grass, Chiseled Grass
+chiselsandbits:chiseled_snow, Chiseled Snow
+chiselsandbits:chiseled_fluid, Chiseled Fluid
+chiselsandbits:chiseled_leaves, Chiseled Leaves
+valkyrielib:guide, Digital Guide
+valkyrielib:modifier_component, Modifier Component
+valkyrielib:modifier_speed, Speed Modifier
+environmentaltech:litherite, Litherite
+environmentaltech:litherite_paver, Litherite Paver
+environmentaltech:litherite_bricks, Litherite Bricks
+environmentaltech:litherite_tiles, Litherite Tiles
+environmentaltech:litherite_stairs, Litherite Stairs
+environmentaltech:litherite_brick_stairs, Litherite Brick Stairs
+environmentaltech:litherite_tile_stairs, Litherite Tile Stairs
+environmentaltech:litherite_slab:0, Litherite Slab
+environmentaltech:litherite_paver_slab:0, Litherite Paver Slab
+environmentaltech:litherite_brick_slab:0, Litherite Brick Slab
+environmentaltech:litherite_tile_slab:0, Litherite Tile Slab
+environmentaltech:erodium, Erodium
+environmentaltech:erodium_paver, Erodium Paver
+environmentaltech:erodium_bricks, Erodium Bricks
+environmentaltech:erodium_tiles, Erodium Tiles
+environmentaltech:erodium_stairs, Erodium Stairs
+environmentaltech:erodium_brick_stairs, Erodium Brick Stairs
+environmentaltech:erodium_tile_stairs, Erodium Tile Stairs
+environmentaltech:erodium_slab:0, Erodium Slab
+environmentaltech:erodium_paver_slab:0, Erodium Paver Slab
+environmentaltech:erodium_brick_slab:0, Erodium Brick Slab
+environmentaltech:erodium_tile_slab:0, Erodium Tile Slab
+environmentaltech:kyronite, Kyronite
+environmentaltech:kyronite_paver, Kyronite Paver
+environmentaltech:kyronite_bricks, Kyronite Bricks
+environmentaltech:kyronite_tiles, Kyronite Tiles
+environmentaltech:kyronite_stairs, Kyronite Stairs
+environmentaltech:kyronite_brick_stairs, Kyronite Brick Stairs
+environmentaltech:kyronite_tile_stairs, Kyronite Tile Stairs
+environmentaltech:kyronite_slab:0, Kyronite Slab
+environmentaltech:kyronite_paver_slab:0, Kyronite Paver Slab
+environmentaltech:kyronite_brick_slab:0, Kyronite Brick Slab
+environmentaltech:kyronite_tile_slab:0, Kyronite Tile Slab
+environmentaltech:pladium, Pladium
+environmentaltech:pladium_paver, Pladium Paver
+environmentaltech:pladium_bricks, Pladium Bricks
+environmentaltech:pladium_tiles, Pladium Tiles
+environmentaltech:pladium_stairs, Pladium Stairs
+environmentaltech:pladium_brick_stairs, Pladium Brick Stairs
+environmentaltech:pladium_tile_stairs, Pladium Tile Stairs
+environmentaltech:pladium_slab:0, Pladium Slab
+environmentaltech:pladium_paver_slab:0, Pladium Paver Slab
+environmentaltech:pladium_brick_slab:0, Pladium Brick Slab
+environmentaltech:pladium_tile_slab:0, Pladium Tile Slab
+environmentaltech:ionite, Ionite
+environmentaltech:ionite_paver, Ionite Paver
+environmentaltech:ionite_bricks, Ionite Bricks
+environmentaltech:ionite_tiles, Ionite Tiles
+environmentaltech:ionite_stairs, Ionite Stairs
+environmentaltech:ionite_brick_stairs, Ionite Brick Stairs
+environmentaltech:ionite_tile_stairs, Ionite Tile Stairs
+environmentaltech:ionite_slab:0, Ionite Slab
+environmentaltech:ionite_paver_slab:0, Ionite Paver Slab
+environmentaltech:ionite_brick_slab:0, Ionite Brick Slab
+environmentaltech:ionite_tile_slab:0, Ionite Tile Slab
+environmentaltech:aethium, Aethium
+environmentaltech:aethium_paver, Aethium Paver
+environmentaltech:aethium_bricks, Aethium Bricks
+environmentaltech:aethium_tiles, Aethium Tiles
+environmentaltech:aethium_stairs, Aethium Stairs
+environmentaltech:aethium_brick_stairs, Aethium Brick Stairs
+environmentaltech:aethium_tile_stairs, Aethium Tile Stairs
+environmentaltech:aethium_slab:0, Aethium Slab
+environmentaltech:aethium_paver_slab:0, Aethium Paver Slab
+environmentaltech:aethium_brick_slab:0, Aethium Brick Slab
+environmentaltech:aethium_tile_slab:0, Aethium Tile Slab
+environmentaltech:lonsdaleite, Lonsdaleite
+environmentaltech:lonsdaleite_paver, Lonsdaleite Paver
+environmentaltech:lonsdaleite_bricks, Lonsdaleite Bricks
+environmentaltech:lonsdaleite_tiles, Lonsdaleite Tiles
+environmentaltech:lonsdaleite_stairs, Lonsdaleite Stairs
+environmentaltech:lonsdaleite_brick_stairs, Lonsdaleite Brick Stairs
+environmentaltech:lonsdaleite_tile_stairs, Lonsdaleite Tile Stairs
+environmentaltech:lonsdaleite_slab:0, Lonsdaleite Slab
+environmentaltech:lonsdaleite_paver_slab:0, Lonsdaleite Paver Slab
+environmentaltech:lonsdaleite_brick_slab:0, Lonsdaleite Brick Slab
+environmentaltech:lonsdaleite_tile_slab:0, Lonsdaleite Tile Slab
+environmentaltech:mica, Mica
+environmentaltech:litherite_crystal, Litherite Crystal
+environmentaltech:erodium_crystal, Erodium Crystal
+environmentaltech:kyronite_crystal, Kyronite Crystal
+environmentaltech:pladium_crystal, Pladium Crystal
+environmentaltech:ionite_crystal, Ionite Crystal
+environmentaltech:aethium_crystal, Aethium Crystal
+environmentaltech:lonsdaleite_crystal, Lonsdaleite Crystal
+environmentaltech:interconnect, Interconnect
+environmentaltech:tool_multiblock_assembler, Assembler
+environmentaltech:connector, Connector
+environmentaltech:modifier_null, Null Modifier
+environmentaltech:modifier_speed, Speed Modifier
+environmentaltech:modifier_luck, Luck Modifier
+environmentaltech:structure_frame_1, Structure Frame Tier 1
+environmentaltech:structure_frame_2, Structure Frame Tier 2
+environmentaltech:structure_frame_3, Structure Frame Tier 3
+environmentaltech:structure_frame_4, Structure Frame Tier 4
+environmentaltech:structure_frame_5, Structure Frame Tier 5
+environmentaltech:structure_frame_6, Structure Frame Tier 6
+environmentaltech:structure_panel, Structure Panel
+environmentaltech:structure_panel_clear, Clear Structure Panel
+environmentaltech:lightning_rod, Lightning Rod
+environmentaltech:lightning_rod_insulated, Insulated Lightning Rod
+environmentaltech:lightning_cont_1, Lightning Controller Tier 1
+environmentaltech:lightning_cont_2, Lightning Controller Tier 2
+environmentaltech:lightning_cont_3, Lightning Controller Tier 3
+environmentaltech:lightning_cont_4, Lightning Controller Tier 4
+environmentaltech:lightning_cont_5, Lightning Controller Tier 5
+environmentaltech:lightning_cont_6, Lightning Controller Tier 6
+environmentaltech:solar_cont_1, Solar Array Controller Tier 1
+environmentaltech:solar_cont_2, Solar Array Controller Tier 2
+environmentaltech:solar_cont_3, Solar Array Controller Tier 3
+environmentaltech:solar_cont_4, Solar Array Controller Tier 4
+environmentaltech:solar_cont_5, Solar Array Controller Tier 5
+environmentaltech:solar_cont_6, Solar Array Controller Tier 6
+environmentaltech:solar_cell_litherite, Litherite Solar Cell
+environmentaltech:solar_cell_erodium, Erodium Solar Cell
+environmentaltech:solar_cell_kyronite, Kyronite Solar Cell
+environmentaltech:solar_cell_pladium, Pladium Solar Cell
+environmentaltech:solar_cell_ionite, Ionite Solar Cell
+environmentaltech:solar_cell_aethium, Aethium Solar Cell
+environmentaltech:modifier_piezo, Piezo Modifier
+environmentaltech:photovoltaic_cell, Photovoltaic Cell
+environmentaltech:thermal_cell, Thermal Cell
+environmentaltech:laser_core, Laser Core
+environmentaltech:laser_lens, Clear Laser Lens
+environmentaltech:laser_lens_crystal, Crystal Laser Lens
+environmentaltech:laser_lens_colored:0, White Laser Lens
+environmentaltech:laser_lens_colored:1, Orange Laser Lens
+environmentaltech:laser_lens_colored:2, Magenta Laser Lens
+environmentaltech:laser_lens_colored:3, Light Blue Laser Lens
+environmentaltech:laser_lens_colored:4, Yellow Laser Lens
+environmentaltech:laser_lens_colored:5, Lime Laser Lens
+environmentaltech:laser_lens_colored:6, Pink Laser Lens
+environmentaltech:laser_lens_colored:7, Gray Laser Lens
+environmentaltech:laser_lens_colored:8, Light Gray Laser Lens
+environmentaltech:laser_lens_colored:9, Cyan Laser Lens
+environmentaltech:laser_lens_colored:10, Purple Laser Lens
+environmentaltech:laser_lens_colored:11, Blue Laser Lens
+environmentaltech:laser_lens_colored:12, Brown Laser Lens
+environmentaltech:laser_lens_colored:13, Green Laser Lens
+environmentaltech:laser_lens_colored:14, Red Laser Lens
+environmentaltech:laser_lens_colored:15, Black Laser Lens
+environmentaltech:modifier_accuracy, Accuracy Modifier
+environmentaltech:diode, Diode
+environmentaltech:void_ore_miner_cont_1, Void Ore Miner Controller Tier 1
+environmentaltech:void_ore_miner_cont_2, Void Ore Miner Controller Tier 2
+environmentaltech:void_ore_miner_cont_3, Void Ore Miner Controller Tier 3
+environmentaltech:void_ore_miner_cont_4, Void Ore Miner Controller Tier 4
+environmentaltech:void_ore_miner_cont_5, Void Ore Miner Controller Tier 5
+environmentaltech:void_ore_miner_cont_6, Void Ore Miner Controller Tier 6
+environmentaltech:void_res_miner_cont_1, Void Resource Miner Controller Tier 1
+environmentaltech:void_res_miner_cont_2, Void Resource Miner Controller Tier 2
+environmentaltech:void_res_miner_cont_3, Void Resource Miner Controller Tier 3
+environmentaltech:void_res_miner_cont_4, Void Resource Miner Controller Tier 4
+environmentaltech:void_res_miner_cont_5, Void Resource Miner Controller Tier 5
+environmentaltech:void_res_miner_cont_6, Void Resource Miner Controller Tier 6
+environmentaltech:void_botanic_miner_cont_1, Void Botanic Miner Controller Tier 1
+environmentaltech:void_botanic_miner_cont_2, Void Botanic Miner Controller Tier 2
+environmentaltech:void_botanic_miner_cont_3, Void Botanic Miner Controller Tier 3
+environmentaltech:void_botanic_miner_cont_4, Void Botanic Miner Controller Tier 4
+environmentaltech:void_botanic_miner_cont_5, Void Botanic Miner Controller Tier 5
+environmentaltech:void_botanic_miner_cont_6, Void Botanic Miner Controller Tier 6
+environmentaltech:modifier_creative_flight, Creative Flight Modifier
+environmentaltech:modifier_flight_speed, Flight Speed Modifier
+environmentaltech:modifier_haste, Haste Modifier
+environmentaltech:modifier_strength, Strength Modifier
+environmentaltech:modifier_jump_boost, Jump Boost Modifier
+environmentaltech:modifier_regeneration, Regen Modifier
+environmentaltech:modifier_resistance, Resistance Modifier
+environmentaltech:modifier_fire_resistance, Fire Resistance Modifier
+environmentaltech:modifier_water_breathing, Water Breathing Modifier
+environmentaltech:modifier_invisibility, Invisibility Modifier
+environmentaltech:modifier_night_vision, Night Vision Modifier
+environmentaltech:modifier_health_boost, Health Boost Modifier
+environmentaltech:modifier_absorption, Absoption Modifier
+environmentaltech:modifier_saturation, Saturation Modifier
+environmentaltech:modifier_glowing, Glowing Modifier
+environmentaltech:nano_cont_ranged_1, Ranged Nano Bot Beacon Tier 1
+environmentaltech:nano_cont_ranged_2, Ranged Nano Bot Beacon Tier 2
+environmentaltech:nano_cont_ranged_3, Ranged Nano Bot Beacon Tier 3
+environmentaltech:nano_cont_ranged_4, Ranged Nano Bot Beacon Tier 4
+environmentaltech:nano_cont_ranged_5, Ranged Nano Bot Beacon Tier 5
+environmentaltech:nano_cont_ranged_6, Ranged Nano Bot Beacon Tier 6
+environmentaltech:nano_cont_personal_1, Personal Nano Bot Beacon Tier 1
+environmentaltech:nano_cont_personal_2, Personal Nano Bot Beacon Tier 2
+environmentaltech:nano_cont_personal_3, Personal Nano Bot Beacon Tier 3
+environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
+environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
+environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6

@@ -1,6 +1,6 @@
 setIcon(<chancecubes:chance_cube>)
-setTitle("The Beginning")
-setDescription("The Journey begins")
+setTitle("Pack Progression")
+setDescription("The Journey")
 setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
 setShowToast(false)
 setAnnounceToChat(false)

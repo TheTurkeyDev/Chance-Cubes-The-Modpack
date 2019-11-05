@@ -1,0 +1,24 @@
+{
+    "Calculator": {
+        "chance": 25,
+        "Item": [
+            {
+                "item": {
+                    "id": "calculator:calculator",
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Power_Cube": {
+        "chance": 50,
+        "Item": [
+            {
+                "item": {
+                    "id": "calculator:power_cube",
+                    "Count": 1
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "calculator": {
+        "name": "Calculator Reward Profile",
+        "description": "",
+        "rewards_to_enable": [
+            "Calculator"
+        ]
+    },
+    "calculator_disable": {
+        "name": "Disable Calculator Reward Profile",
+        "description": "Disables the calculator reward",
+        "rewards_to_disable": [
+            "Calculator"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/calculator"
+            }
+        ],
+        "sub_profiles": [
+            "calculator"
+        ]
+    },
+    "power_cube": {
+        "name": "Power Cube Profile",
+        "description": "",
+        "rewards_to_enable": [
+            "Power_Cube"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/agricultural_age"
+            }
+        ]
+    },
+    "reinforced_iron": {
+        "name": "Test proof of concept profile",
+        "description": "",
+        "any_trigger": false,
+        "rewards_to_enable": [
+
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/powercube"
+            },
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/calculator"
+            }
+        ]
+    }
+}

@@ -4,8 +4,6 @@
         "description": "Profile that triggers when the player enters the agricultural age.",
         "rewards_to_enable": [
             "Iron_Golem",
-            "Mystical_AG_Starter_Pack",
-            "Mystical_AG_Tier_2_Inferium_Seeds",
             "chancecubes:Anvil_Rain",
             "chancecubes:Cuteness",
             "chancecubes:DIY_Pie",

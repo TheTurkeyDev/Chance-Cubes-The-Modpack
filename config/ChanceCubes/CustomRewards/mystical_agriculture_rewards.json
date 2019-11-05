@@ -1,0 +1,31 @@
+{
+    "Mystical_AG_Starter_Pack": {
+        "chance": 65,
+        "Item": [
+            {
+                "item": {
+                    "id": "mysticalagriculture:crafting",
+                    "damage": 5,
+                    "Count": 4
+                }
+            },
+            {
+                "item": {
+                    "id": "mysticalagriculture:tier1_inferium_seeds",
+                    "Count": 1
+                }
+            }
+        ]
+    },
+    "Mystical_AG_Tier_2_Inferium_Seeds": {
+        "chance": 95,
+        "Item": [
+            {
+                "item": {
+                    "id": "mysticalagriculture:tier2_inferium_seeds",
+                    "Count": 1
+                }
+            }
+        ]
+    }
+}

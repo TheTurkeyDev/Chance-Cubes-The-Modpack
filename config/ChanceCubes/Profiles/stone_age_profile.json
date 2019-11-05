@@ -37,7 +37,8 @@
             "chancecubes:Troll_Hole",
             "chancecubes:Troll_TNT",
             "chancecubes:Want_To_Build_A_Snowman",
-            "chancecubes:Wool"
+            "chancecubes:Wool",
+            "Calculator"
         ],
         "rewards_to_disable": [
             "chancecubes:Village",

@@ -1,0 +1,18 @@
+{
+    "mystal_ag_intro": {
+        "name": "Introduction To Mystical Agriculture",
+        "description": "",
+        "rewards_to_enable": [
+            "Mystical_AG_Starter_Pack",
+            "Mystical_AG_Tier_2_Inferium_Seeds"
+        ],
+        "rewards_to_disable": [],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/agricultural_age"
+            }
+        ],
+        "reward_properties": []
+    }
+}
