@@ -1,7 +1,7 @@
 setIcon(<minecraft:wheat_seeds>)
 setTitle("Agricultural Age")
 setDescription("Get some regular seeds!\nMonsters will now spawn (No drops)!")
-addParent("triumph:progress/stoneage")
+addParent("triumph:progress/stone_age")
 setRequiresParents()
 setPos(150,0)
 setAnnounceToChat(false)

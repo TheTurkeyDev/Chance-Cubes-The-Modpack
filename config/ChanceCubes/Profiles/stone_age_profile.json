@@ -49,7 +49,7 @@
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/stoneage"
+                "advancement_res": "triumph:progress/stone_age"
             }
         ],
         "reward_properties": [

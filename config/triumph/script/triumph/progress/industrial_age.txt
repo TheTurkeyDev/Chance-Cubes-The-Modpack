@@ -1,7 +1,7 @@
 setIcon(<enderio:item_material>)
 setTitle("Industrial Age")
 setDescription("MACHINES!\n-Obtain a hopper, a chassis, or a basic capacitor")
-addParent("triumph:progress/powerage")
+addParent("triumph:progress/power_age")
 setRequiresParents()
 setPos(300,0)
 setAnnounceToChat(false)

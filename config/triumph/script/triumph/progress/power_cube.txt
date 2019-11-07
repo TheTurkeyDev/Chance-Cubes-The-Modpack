@@ -1,7 +1,7 @@
 setIcon(<calculator:powercube>)
 setTitle("Power Cube")
 setDescription("Get a Power Cube!")
-addParent("triumph:progress/ironage")
+addParent("triumph:progress/iron_age")
 setRequiresParents()
 setPos(250,25)
 setAnnounceToChat(false)

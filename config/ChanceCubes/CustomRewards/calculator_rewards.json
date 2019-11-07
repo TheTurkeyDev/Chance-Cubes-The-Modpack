@@ -5,7 +5,10 @@
             {
                 "item": {
                     "id": "calculator:calculator",
-                    "Count": 1
+                    "Count": 1,
+                    "tag": {
+                        "Energy": 1000
+                    }
                 }
             }
         ]

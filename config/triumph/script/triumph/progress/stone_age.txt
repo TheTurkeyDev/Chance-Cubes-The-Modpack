@@ -1,7 +1,7 @@
 setIcon(<minecraft:stone_pickaxe>)
 setTitle("Stone Age")
 setDescription("Get some cobble stone!")
-addParent("triumph:progress/woodenage")
+addParent("triumph:progress/wooden_age")
 setRequiresParents()
 setPos(100,0)
 setAnnounceToChat(false)

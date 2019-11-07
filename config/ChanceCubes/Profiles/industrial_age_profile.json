@@ -1,0 +1,179 @@
+{
+    "stone_age": {
+        "name": "Iron Age",
+        "description": "Profile that triggers when the player enters the iron age.",
+        "rewards_to_enable": [],
+        "rewards_to_disable": [
+            "chancecubes:Anti_Slab",
+            "chancecubes:Smite",
+            "chancecubes:D-rude_SandStorm",
+            "chancecubes:Arrow_Spray",
+            "chancecubes:Cookie_Monster",
+            "chancecubes:Dig_Build_Reward",
+            "chancecubes:Table_Flip",
+            "chancecubes:Explosion",
+            "chancecubes:Hearts",
+            "chancecubes:Path_To_Succeed",
+            "chancecubes:Half_Fishingrod",
+            "chancecubes:Sail_Away",
+            "chancecubes:Juke_Box",
+            "chancecubes:Finding_Marlin",
+            "chancecubes:Finding_Nemo",
+            "chancecubes:SpongeBob_SquarePants",
+            "chancecubes:Cookie-splosion",
+            "chancecubes:Spawn_Glenn",
+            "Cobble_Gen",
+            "chancecubes:Giga_Breaker",
+            "chancecubes:Roosevelt's_Stick",
+            "chancecubes:Cube_Rename",
+            "Simple_Stirling_Generator"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/iron_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:Silvermite_Stacks",
+                "chance_value": -90
+            },
+            {
+                "reward_name": "chancecubes:Guardians",
+                "chance_value": -80
+            },
+            {
+                "reward_name": "chancecubes:Mob_Tower",
+                "chance_value": -80
+            },
+            {
+                "reward_name": "chancecubes:Charged_Creeper",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Boss_Demonic_Blaze",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Boss_Evil_Witch",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Boss_Mimic",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Cave_Spider_Web",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:Surrounded",
+                "chance_value": -55
+            },
+            {
+                "reward_name": "chancecubes:Knockback_Zombie",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:Thrown_In_Air",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Invisible_Creeper",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:Bedrock",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:Poison",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:Arrow_Trap",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:Horde",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Silverfish_Surround",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Witch",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:Watch_World_Burn",
+                "chance_value": -10
+            },
+            {
+                "reward_name": "chancecubes:Ice_Cold",
+                "chance_value": 0
+            },
+            {
+                "reward_name": "chancecubes:DIY_Pie",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:Item_Rename",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:Squid_Horde",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:Pig_Of_Destiny",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:Traveller",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "Iron_Golem",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "chancecubes:Want_To_Build_A_Snowman",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "chancecubes:Explorer",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:EXP",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:EXP_Shower",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:Fighter",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:Bookshelves",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Rancher",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:Notch",
+                "chance_value": 90
+            }
+        ],
+        "sub_profiles": [
+            "power_age"
+        ]
+    }
+}

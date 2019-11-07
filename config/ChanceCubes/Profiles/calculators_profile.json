@@ -45,7 +45,7 @@
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/powercube"
+                "advancement_res": "triumph:progress/power_cube"
             },
             {
                 "type": "advancement",
