@@ -1,7 +1,7 @@
 setIcon(<mysticalagriculture:crafting>)
 setTitle("Growing Our Resources")
 setDescription("Obtain mystycal agriculture items to begin the process!")
-addParent("triumph:progress/agricultural_age")
+addParent("triumph:mystical_agriculture/root")
 setRequiresParents()
 setPos(199,-25)
 setAnnounceToChat(false)

@@ -1,5 +1,5 @@
 {
-    "stone_age": {
+    "iron_age": {
         "name": "Iron Age",
         "description": "Profile that triggers when the player enters the iron age.",
         "rewards_to_enable": [

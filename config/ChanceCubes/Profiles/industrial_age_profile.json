@@ -1,7 +1,7 @@
 {
-    "stone_age": {
-        "name": "Iron Age",
-        "description": "Profile that triggers when the player enters the iron age.",
+    "industrial_age": {
+        "name": "Industrial Age",
+        "description": "Profile that triggers when the player enters the industrial age.",
         "rewards_to_enable": [],
         "rewards_to_disable": [
             "chancecubes:Anti_Slab",

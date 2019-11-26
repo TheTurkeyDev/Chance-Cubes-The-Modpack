@@ -15,7 +15,7 @@
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/calculator"
+                "advancement_res": "triumph:calculator/calculator"
             }
         ],
         "sub_profiles": [
@@ -45,11 +45,11 @@
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/power_cube"
+                "advancement_res": "triumph:calculator/power_cube"
             },
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/calculator"
+                "advancement_res": "triumph:calculator/calculator"
             }
         ]
     }

@@ -1,7 +1,7 @@
 setIcon(<mysticalagriculture:tier2_inferium_seeds>)
 setTitle("Increasing Our Production")
 setDescription("Obtain mystycal agriculture tier 2 inferium seeds!")
-addParent("triumph:progress/myst_ag_intro")
+addParent("triumph:mystical_agriculture/myst_ag_intro")
 setRequiresParents()
 setPos(250,-25)
 setAnnounceToChat(false)
