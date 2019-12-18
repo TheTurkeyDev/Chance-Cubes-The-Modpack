@@ -1,0 +1,47 @@
+{
+    "advanced_ores_age": {
+        "name": "Advanced Ores Age",
+        "description": "Profile that triggers when the player enters the advanced ores age.",
+        "rewards_to_enable": [],
+        "rewards_to_disable": [],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/industrial_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:Ore_Sphere",
+                "white_list": [
+                    "oreCoal",
+                    "oreIron",
+                    "oreGold",
+                    "oreLapis",
+                    "oreDiamond",
+                    "oreRedstone",
+                    "oreEmerald",
+                    "oreQuartz",
+                    "oreCertusQuartz"
+                ]
+            },
+            {
+                "reward_name": "chancecubes:Ore_Pillars",
+                "white_list": [
+                    "oreCoal",
+                    "oreIron",
+                    "oreGold",
+                    "oreLapis",
+                    "oreDiamond",
+                    "oreRedstone",
+                    "oreEmerald",
+                    "oreQuartz",
+                    "oreCertusQuartz"
+                ]
+            }
+        ],
+        "sub_profiles": [
+            "industrial_age"
+        ]
+    }
+}

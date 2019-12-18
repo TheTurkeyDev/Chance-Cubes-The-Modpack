@@ -29,7 +29,7 @@
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "chancecubes:giant_chance_cube"
+                "advancement_res": "triumph:progress/wooden_age"
             }
         ],
         "reward_properties": [

@@ -24,6 +24,8 @@
             "Simple_Machine_Chassis",
             "Basic_Capacitor",
             "Hopper",
+            "Power_Cube",
+            "Calculator",
             "chancecubes:Block_Thrower",
             "chancecubes:Chuck_Reverse",
             "chancecubes:Chunk_Flip",

@@ -4,6 +4,15 @@
         "description": "",
         "rewards_to_enable": [
             "Calculator"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "chancecubes:giant_chance_cube"
+            }
+        ],
+        "sub_profiles": [
+            "initial_profile"
         ]
     },
     "calculator_disable": {
@@ -33,10 +42,13 @@
                 "type": "advancement",
                 "advancement_res": "triumph:progress/agricultural_age"
             }
+        ],
+        "sub_profiles": [
+            "initial_profile"
         ]
     },
     "reinforced_iron": {
-        "name": "Test proof of concept profile",
+        "name": "Reinforced Iron Profile",
         "description": "",
         "any_trigger": false,
         "rewards_to_enable": [

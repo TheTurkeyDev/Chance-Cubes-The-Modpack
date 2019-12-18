@@ -2,7 +2,15 @@
     "industrial_age": {
         "name": "Industrial Age",
         "description": "Profile that triggers when the player enters the industrial age.",
-        "rewards_to_enable": [],
+        "rewards_to_enable": [
+            "chancecubes:Redstone_Diamond",
+            "chancecubes:OresGolore",
+            "chancecubes:Mitas",
+            "chancecubes:Diamond_Block",
+            "chancecubes:TNT_Diamond",
+            "chancecubes:Wait_For_It",
+            "chancecubes:Take_This "
+        ],
         "rewards_to_disable": [
             "chancecubes:Anti_Slab",
             "chancecubes:Smite",
@@ -35,6 +43,10 @@
             }
         ],
         "reward_properties": [
+            {
+                "reward_name": "chancecubes:Redstone_Diamond",
+                "chance_value": 30
+            },
             {
                 "reward_name": "chancecubes:Silvermite_Stacks",
                 "chance_value": -90
