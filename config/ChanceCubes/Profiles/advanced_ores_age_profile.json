@@ -2,17 +2,44 @@
     "advanced_ores_age": {
         "name": "Advanced Ores Age",
         "description": "Profile that triggers when the player enters the advanced ores age.",
-        "rewards_to_enable": [],
-        "rewards_to_disable": [],
+        "rewards_to_enable": [
+            "chancecubes:herobrine",
+            "chancecubes:tnt_bats",
+            "chancecubes:nether_jelly_fish",
+            "chancecubes:math",
+            "chancecubes:maze",
+            "chancecubes:matching",
+            "chancecubes:sethbling_reward",
+            "chancecubes:item_of_destiny",
+            "chancecubes:armor_stand_armor",
+            "chancecubes:magic_feet",
+            "chancecubes:beacon_build"
+        ],
+        "rewards_to_disable": [
+            "chancecubes:charged_creeper",
+            "chancecubes:invisible_creeper",
+            "chancecubes:arrow_trap",
+            "chancecubes:poison",
+            "chancecubes:horde",
+            "chancecubes:silverfish_surround",
+            "chancecubes:one_man_army",
+            "chancecubes:troll_tnt",
+            "chancecubes:5_prongs",
+            "chancecubes:invisible_ghasts",
+            "iron_golem",
+            "chancecubes:exp",
+            "chancecubes:exp_shower",
+            "chancecubes:anvil_rain"
+        ],
         "triggers": [
             {
                 "type": "advancement",
-                "advancement_res": "triumph:progress/industrial_age"
+                "advancement_res": "triumph:progress/advanced_ores_age"
             }
         ],
         "reward_properties": [
             {
-                "reward_name": "chancecubes:Ore_Sphere",
+                "reward_name": "chancecubes:ore_sphere",
                 "white_list": [
                     "oreCoal",
                     "oreIron",
@@ -26,7 +53,7 @@
                 ]
             },
             {
-                "reward_name": "chancecubes:Ore_Pillars",
+                "reward_name": "chancecubes:ore_pillars",
                 "white_list": [
                     "oreCoal",
                     "oreIron",
@@ -38,6 +65,146 @@
                     "oreQuartz",
                     "oreCertusQuartz"
                 ]
+            },
+            {
+                "reward_name": "chancecubes:ender_crystal_timer",
+                "chance_value": -90
+            },
+            {
+                "reward_name": "chancecubes:herobrine",
+                "chance_value": -85
+            },
+            {
+                "reward_name": "chancecubes:invizible_silverfish",
+                "chance_value": -75
+            },
+            {
+                "reward_name": "chancecubes:silvermite_stacks",
+                "chance_value": -75
+            },
+            {
+                "reward_name": "chancecubes:skeleton_bats",
+                "chance_value": -70
+            },
+            {
+                "reward_name": "chancecubes:lingering_potions_ring",
+                "chance_value": -65
+            },
+            {
+                "reward_name": "chancecubes:guardians",
+                "chance_value": -60
+            },
+            {
+                "reward_name": "chancecubes:tnt_bats",
+                "chance_value": -59
+            },
+            {
+                "reward_name": "chancecubes:boss_demonic_blaze",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:boss_evil_witch",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:boss_mimic",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:wolves_to_creepers",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:cave_spider_web",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:surrounded",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:nether_jelly_fish",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:knockback_zombie",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:thrown_in_air",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:math",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:maze",
+                "chance_value": -25
+            },
+            {
+                "reward_name": "chancecubes:bedrock",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:witch",
+                "chance_value": -15
+            },
+            {
+                "reward_name": "chancecubes:watch_world_burn",
+                "chance_value": -5
+            },
+            {
+                "reward_name": "chancecubes:diy_pie",
+                "chance_value": 5
+            },
+            {
+                "reward_name": "chancecubes:sethbling_reward",
+                "chance_value": 30
+            },
+            {
+                "reward_name": "chancecubes:fighter",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "chancecubes:item_of_destiny",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:armor_stand_armor",
+                "chance_value": 40
+            },
+            {
+                "reward_name": "chancecubes:spawn_pickles",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "grains_of_infinity",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "ae_power",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "simple_machine_chassis",
+                "chance_value": 75
+            },
+            {
+                "reward_name": "chancecubes:magic_feet",
+                "chance_value": 85
+            },
+            {
+                "reward_name": "chancecubes:beacon_build",
+                "chance_value": 100
+            },
+            {
+                "reward_name": "mystical_ag_shards",
+                "chance_value": 45
+            },
+            {
+                "reward_name": "mystical_ag_tier_2_inferium_seeds",
+                "chance_value": 55
             }
         ],
         "sub_profiles": [

@@ -1,5 +1,5 @@
 {
-    "Grains_Of_Infinity": {
+    "grains_of_infinity": {
         "chance": 70,
         "Item": [
             {
@@ -11,7 +11,7 @@
             }
         ]
     },
-    "AE_Power": {
+    "ae_power": {
         "chance": 80,
         "Item": [
             {
@@ -34,7 +34,7 @@
             }
         ]
     },
-    "Simple_Solar": {
+    "simple_solar": {
         "chance": 85,
         "Item": [
             {
@@ -46,7 +46,7 @@
             }
         ]
     },
-    "Simple_Stirling_Generator": {
+    "simple_stirling_generator": {
         "chance": 90,
         "Item": [
             {
@@ -57,7 +57,7 @@
             }
         ]
     },
-    "Base_Solar": {
+    "base_solar": {
         "chance": 100,
         "Item": [
             {

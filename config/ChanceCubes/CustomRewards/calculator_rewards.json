@@ -1,5 +1,5 @@
 {
-    "Calculator": {
+    "calculator": {
         "chance": 25,
         "Item": [
             {
@@ -13,7 +13,7 @@
             }
         ]
     },
-    "Power_Cube": {
+    "power_cube": {
         "chance": 50,
         "Item": [
             {

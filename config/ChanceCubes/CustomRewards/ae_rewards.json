@@ -1,0 +1,38 @@
+{
+    "logic_processor": {
+        "chance": 15,
+        "Item": [
+            {
+                "item": {
+                    "id": "appliedenergistics2:material",
+                    "Count": 1,
+                    "Damage": 22
+                }
+            }
+        ]
+    },
+    "engineering_processor": {
+        "chance": 25,
+        "Item": [
+            {
+                "item": {
+                    "id": "appliedenergistics2:material",
+                    "Count": 1,
+                    "Damage": 24
+                }
+            }
+        ]
+    },
+    "calculation_processor": {
+        "chance": 35,
+        "Item": [
+            {
+                "item": {
+                    "id": "appliedenergistics2:material",
+                    "Count": 1,
+                    "Damage": 23
+                }
+            }
+        ]
+    }
+}

@@ -3,28 +3,28 @@
         "name": "Wooden Age",
         "description": "Profile that triggers when the player gets to the wooden age.",
         "rewards_to_enable": [
-            "Cobble_Gen",
-            "chancecubes:Arrow_Spray",
-            "chancecubes:Bookshelves",
-            "chancecubes:Cake",
-            "chancecubes:Cookie-splosion",
-            "chancecubes:EXP",
-            "chancecubes:EXP_Shower",
-            "chancecubes:Finding_Marlin",
-            "chancecubes:Finding_Nemo",
-            "chancecubes:Giga_Breaker",
-            "chancecubes:Half_Fishingrod",
-            "chancecubes:Hand_Enchant",
-            "chancecubes:No",
-            "chancecubes:No_Exp",
-            "chancecubes:One_Shot",
-            "chancecubes:Random_Status_Effect",
-            "chancecubes:Roosevelt's_Stick",
-            "chancecubes:Rotten_Food",
-            "chancecubes:Sail_Away",
-            "chancecubes:Saw_Nothing_Diamond",
-            "chancecubes:Smite",
-            "chancecubes:Table_Flip"
+            "cobble_gen",
+            "chancecubes:arrow_spray",
+            "chancecubes:bookshelves",
+            "chancecubes:cake",
+            "chancecubes:cookie-splosion",
+            "chancecubes:exp",
+            "chancecubes:exp_shower",
+            "chancecubes:finding_marlin",
+            "chancecubes:finding_nemo",
+            "chancecubes:giga_breaker",
+            "chancecubes:half_fishing_rod",
+            "chancecubes:hand_enchant",
+            "chancecubes:no",
+            "chancecubes:no_exp",
+            "chancecubes:one_shot",
+            "chancecubes:random_status_effect",
+            "chancecubes:roosevelts_stick",
+            "chancecubes:rotten_food",
+            "chancecubes:sail_away",
+            "chancecubes:saw_nothing_diamond",
+            "chancecubes:smite",
+            "chancecubes:table_flip"
         ],
         "triggers": [
             {
@@ -34,91 +34,91 @@
         ],
         "reward_properties": [
             {
-                "reward_name": "chancecubes:Arrow_Spray",
+                "reward_name": "chancecubes:arrow_spray",
                 "chance_value": -65
             },
             {
-                "reward_name": "chancecubes:Smite",
+                "reward_name": "chancecubes:smite",
                 "chance_value": -45
             },
             {
-                "reward_name": "chancecubes:Rotten_Food",
+                "reward_name": "chancecubes:rotten_food",
                 "chance_value": -20
             },
             {
-                "reward_name": "chancecubes:No_Exp",
+                "reward_name": "chancecubes:no_exp",
                 "chance_value": -15
             },
             {
-                "reward_name": "chancecubes:Random_Status_Effect",
+                "reward_name": "chancecubes:random_status_effect",
                 "chance_value": -10
             },
             {
-                "reward_name": "chancecubes:No",
+                "reward_name": "chancecubes:no",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:Saw_Nothing_Diamond",
+                "reward_name": "chancecubes:saw_nothing_diamond",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:Table_Flip",
+                "reward_name": "chancecubes:table_flip",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:Half_Fishingrod",
+                "reward_name": "chancecubes:half_fishing_rod",
                 "chance_value": 5
             },
             {
-                "reward_name": "chancecubes:Sail_Away",
+                "reward_name": "chancecubes:sail_away",
                 "chance_value": 5
             },
             {
-                "reward_name": "chancecubes:Finding_Marlin",
+                "reward_name": "chancecubes:finding_marlin",
                 "chance_value": 10
             },
             {
-                "reward_name": "chancecubes:Finding_Nemo",
+                "reward_name": "chancecubes:finding_nemo",
                 "chance_value": 10
             },
             {
-                "reward_name": "chancecubes:Cake",
+                "reward_name": "chancecubes:cake",
                 "chance_value": 20
             },
             {
-                "reward_name": "chancecubes:EXP",
+                "reward_name": "chancecubes:exp",
                 "chance_value": 30
             },
             {
-                "reward_name": "chancecubes:EXP_Shower",
+                "reward_name": "chancecubes:exp_shower",
                 "chance_value": 30
             },
             {
-                "reward_name": "Cobble_Gen",
+                "reward_name": "cobble_gen",
                 "chance_value": 30
             },
             {
-                "reward_name": "chancecubes:Bookshelves",
+                "reward_name": "chancecubes:bookshelves",
                 "chance_value": 40
             },
             {
-                "reward_name": "chancecubes:Cookie-splosion",
+                "reward_name": "chancecubes:cookie-splosion",
                 "chance_value": 65
             },
             {
-                "reward_name": "chancecubes:Hand_Enchant",
+                "reward_name": "chancecubes:hand_enchant",
                 "chance_value": 80
             },
             {
-                "reward_name": "chancecubes:Giga_Breaker",
+                "reward_name": "chancecubes:giga_breaker",
                 "chance_value": 90
             },
             {
-                "reward_name": "chancecubes:Roosevelt's_Stick",
+                "reward_name": "chancecubes:roosevelts_stick",
                 "chance_value": 90
             },
             {
-                "reward_name": "chancecubes:One_Shot",
+                "reward_name": "chancecubes:one_shot",
                 "chance_value": 90
             }
         ],

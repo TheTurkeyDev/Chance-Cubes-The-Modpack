@@ -3,7 +3,7 @@
         "name": "Calculator Reward Profile",
         "description": "",
         "rewards_to_enable": [
-            "Calculator"
+            "calculator"
         ],
         "triggers": [
             {
@@ -19,7 +19,7 @@
         "name": "Disable Calculator Reward Profile",
         "description": "Disables the calculator reward",
         "rewards_to_disable": [
-            "Calculator"
+            "calculator"
         ],
         "triggers": [
             {
@@ -35,7 +35,7 @@
         "name": "Power Cube Profile",
         "description": "",
         "rewards_to_enable": [
-            "Power_Cube"
+            "power_cube"
         ],
         "triggers": [
             {

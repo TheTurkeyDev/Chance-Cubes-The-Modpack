@@ -3,19 +3,20 @@
         "name": "Power Age",
         "description": "Profile that triggers when the player enters the power age.",
         "rewards_to_enable": [
-            "Simple_Machine_Chassis",
-            "Basic_Capacitor",
-            "Hopper"
+            "simple_machine_chassis",
+            "basic_capacitor",
+            "hopper",
+            "mystical_ag_shards"
         ],
         "rewards_to_disable": [
-            "chancecubes:Hearts",
-            "chancecubes:Path_To_Succeed",
-            "chancecubes:Finding_Marlin",
-            "chancecubes:Finding_Nemo",
-            "chancecubes:SpongeBob_SquarePants",
-            "chancecubes:Cookie-splosion",
-            "chancecubes:Giga_Breaker",
-            "chancecubes:Roosevelt's_Stick"
+            "chancecubes:hearts",
+            "chancecubes:path_to_succeed",
+            "chancecubes:finding_marlin",
+            "chancecubes:finding_nemo",
+            "chancecubes:spongebob_squarepants",
+            "chancecubes:cookie-splosion",
+            "chancecubes:giga_breaker",
+            "chancecubes:roosevelts_stick"
         ],
         "triggers": [
             {
@@ -25,79 +26,79 @@
         ],
         "reward_properties": [
             {
-                "reward_name": "chancecubes:Arrow_Spray",
+                "reward_name": "chancecubes:arrow_spray",
                 "chance_value": -25
             },
             {
-                "reward_name": "chancecubes:Smite",
+                "reward_name": "chancecubes:smite",
                 "chance_value": -5
             },
             {
-                "reward_name": "chancecubes:Spawn_Glenn",
+                "reward_name": "chancecubes:spawn_glenn",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:D-rude_SandStorm",
+                "reward_name": "chancecubes:d-rude_sandstorm",
                 "chance_value": -5
             },
             {
-                "reward_name": "chancecubes:5_Prongs",
+                "reward_name": "chancecubes:5_prongs",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:Help_Me",
+                "reward_name": "chancecubes:help_me",
                 "chance_value": 0
             },
             {
-                "reward_name": "chancecubes:DIY_Pie",
+                "reward_name": "chancecubes:diy_pie",
                 "chance_value": 15
             },
             {
-                "reward_name": "chancecubes:Pig_Of_Destiny",
+                "reward_name": "chancecubes:pig_of_destiny",
                 "chance_value": 25
             },
             {
-                "reward_name": "chancecubes:Disco",
+                "reward_name": "chancecubes:disco",
                 "chance_value": 40
             },
             {
-                "reward_name": "Iron_Golem",
+                "reward_name": "iron_golem",
                 "chance_value": 35
             },
             {
-                "reward_name": "chancecubes:Bookshelves",
+                "reward_name": "chancecubes:bookshelves",
                 "chance_value": 55
             },
             {
-                "reward_name": "chancecubes:Spawn_Cluckington",
+                "reward_name": "chancecubes:spawn_cluckington",
                 "chance_value": 40
             },
             {
-                "reward_name": "chancecubes:Spawn_Dr_Trayaurus",
+                "reward_name": "chancecubes:spawn_dr_trayaurus",
                 "chance_value": 40
             },
             {
-                "reward_name": "chancecubes:Spawn_Jerry",
+                "reward_name": "chancecubes:spawn_jerry",
                 "chance_value": 40
             },
             {
-                "reward_name": "Mystical_AG_Starter_Pack",
+                "reward_name": "mystical_ag_starter_pack",
                 "chance_value": 45
             },
             {
-                "reward_name": "chancecubes:Spawn_Pickles",
+                "reward_name": "chancecubes:spawn_pickles",
                 "chance_value": 70
             },
             {
-                "reward_name": "chancecubes:Hand_Enchant",
+                "reward_name": "chancecubes:hand_enchant",
                 "chance_value": 70
             },
             {
-                "reward_name": "chancecubes:Rancher",
+                "reward_name": "chancecubes:rancher",
                 "chance_value": 75
             },
             {
-                "reward_name": "Mystical_AG_Tier_2_Inferium_Seeds",
+                "reward_name": "mystical_ag_tier_2_inferium_seeds",
                 "chance_value": 75
             }
         ],

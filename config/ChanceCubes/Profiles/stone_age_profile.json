@@ -3,48 +3,48 @@
         "name": "Stone Age",
         "description": "Profile that triggers when the player enters the stone age.",
         "rewards_to_enable": [
-            "chancecubes:Sphere_Snake",
-            "chancecubes:5_Prongs",
-            "chancecubes:Anti_Slab",
-            "chancecubes:Arrow_Trap",
-            "chancecubes:Bedrock",
-            "chancecubes:Bone_Cat",
-            "chancecubes:Cats_And_Dogs",
-            "chancecubes:Cave_Spider_Web",
-            "chancecubes:Charged_Creeper",
-            "chancecubes:Cookie_Monster",
-            "chancecubes:Cube_Rename",
-            "chancecubes:D-rude_SandStorm",
-            "chancecubes:Dig_Build_Reward",
-            "chancecubes:Ender_Crystal_Timer",
-            "chancecubes:Fake_TNT",
-            "chancecubes:Farmer",
-            "chancecubes:Fish_Dog",
-            "chancecubes:Half_Heart",
-            "chancecubes:Hearts",
-            "chancecubes:Horde",
-            "chancecubes:Ice_Cold",
-            "chancecubes:Item_Rename",
-            "chancecubes:Juke_Box",
-            "chancecubes:Knockback_Zombie",
-            "chancecubes:Lava_Ring",
-            "chancecubes:Path_To_Succeed",
-            "chancecubes:Rain",
-            "chancecubes:Saplings",
-            "chancecubes:Skeleton_Bats",
-            "chancecubes:SpongeBob_SquarePants",
-            "chancecubes:Thrown_In_Air",
-            "chancecubes:Troll_Hole",
-            "chancecubes:Troll_TNT",
-            "chancecubes:Want_To_Build_A_Snowman",
-            "chancecubes:Wool",
-            "Calculator"
+            "chancecubes:sphere_snake",
+            "chancecubes:5_prongs",
+            "chancecubes:anti_slab",
+            "chancecubes:arrow_trap",
+            "chancecubes:bedrock",
+            "chancecubes:bone_cat",
+            "chancecubes:cats_and_dogs",
+            "chancecubes:cave_spider_web",
+            "chancecubes:charged_creeper",
+            "chancecubes:cookie_monster",
+            "chancecubes:cube_rename",
+            "chancecubes:d-rude_sandstorm",
+            "chancecubes:dig_build",
+            "chancecubes:ender_crystal_timer",
+            "chancecubes:fake_tnt",
+            "chancecubes:farmer",
+            "chancecubes:fish_dog",
+            "chancecubes:half_heart",
+            "chancecubes:hearts",
+            "chancecubes:horde",
+            "chancecubes:ice_cold",
+            "chancecubes:item_rename",
+            "chancecubes:juke_box",
+            "chancecubes:knockback_zombie",
+            "chancecubes:lava_ring",
+            "chancecubes:path_to_succeed",
+            "chancecubes:rain",
+            "chancecubes:saplings",
+            "chancecubes:skeleton_bats",
+            "chancecubes:spongebob_squarepants",
+            "chancecubes:thrown_in_air",
+            "chancecubes:troll_hole",
+            "chancecubes:troll_tnt",
+            "chancecubes:want_to_build_a_snowman",
+            "chancecubes:wool",
+            "calculator"
         ],
         "rewards_to_disable": [
-            "chancecubes:Village",
-            "chancecubes:Woodland_Mansion",
-            "chancecubes:BioDome",
-            "chancecubes:Beacon_Arena"
+            "chancecubes:village",
+            "chancecubes:woodland_mansion",
+            "chancecubes:biodome",
+            "chancecubes:beacon_arena"
         ],
         "triggers": [
             {
@@ -54,139 +54,139 @@
         ],
         "reward_properties": [
             {
-                "reward_name": "chancecubes:Skeleton_Bats",
+                "reward_name": "chancecubes:skeleton_bats",
                 "chance_value": -100
             },
             {
-                "reward_name": "chancecubes:Ender_Crystal_Timer",
+                "reward_name": "chancecubes:ender_crystal_timer",
                 "chance_value": -95
             },
             {
-                "reward_name": "chancecubes:Cave_Spider_Web",
+                "reward_name": "chancecubes:cave_spider_web",
                 "chance_value": -90
             },
             {
-                "reward_name": "chancecubes:Charged_Creeper",
+                "reward_name": "chancecubes:charged_creeper",
                 "chance_value": -80
             },
             {
-                "reward_name": "chancecubes:Knockback_Zombie",
+                "reward_name": "chancecubes:knockback_zombie",
                 "chance_value": -75
             },
             {
-                "reward_name": "chancecubes:Bedrock",
+                "reward_name": "chancecubes:bedrock",
                 "chance_value": -70
             },
             {
-                "reward_name": "chancecubes:Arrow_Trap",
+                "reward_name": "chancecubes:arrow_trap",
                 "chance_value": -65
             },
             {
-                "reward_name": "chancecubes:Dig_Build_Reward",
+                "reward_name": "chancecubes:dig_build",
                 "chance_value": -60
             },
             {
-                "reward_name": "chancecubes:Arrow_Spray",
+                "reward_name": "chancecubes:arrow_spray",
                 "chance_value": -55
             },
             {
-                "reward_name": "chancecubes:Thrown_In_Air",
+                "reward_name": "chancecubes:thrown_in_air",
                 "chance_value": -55
             },
             {
-                "reward_name": "chancecubes:Lava_Ring",
+                "reward_name": "chancecubes:lava_ring",
                 "chance_value": -50
             },
             {
-                "reward_name": "chancecubes:Cookie_Monster",
+                "reward_name": "chancecubes:cookie_monster",
                 "chance_value": -45
             },
             {
-                "reward_name": "chancecubes:Horde",
+                "reward_name": "chancecubes:horde",
                 "chance_value": -45
             },
             {
-                "reward_name": "chancecubes:Smite",
+                "reward_name": "chancecubes:smite",
                 "chance_value": -35
             },
             {
-                "reward_name": "chancecubes:Rotten_Food",
+                "reward_name": "chancecubes:rotten_food",
                 "chance_value": -25
             },
             {
-                "reward_name": "chancecubes:Troll_Hole",
+                "reward_name": "chancecubes:troll_hole",
                 "chance_value": -25
             },
             {
-                "reward_name": "chancecubes:No_Exp",
+                "reward_name": "chancecubes:no_exp",
                 "chance_value": -20
             },
             {
-                "reward_name": "chancecubes:D-rude_SandStorm",
+                "reward_name": "chancecubes:d-rude_sandstorm",
                 "chance_value": -15
             },
             {
-                "reward_name": "chancecubes:Rain",
+                "reward_name": "chancecubes:rain",
                 "chance_value": -15
             },
             {
-                "reward_name": "chancecubes:Troll_TNT",
+                "reward_name": "chancecubes:troll_tnt",
                 "chance_value": -10
             },
             {
-                "reward_name": "chancecubes:Random_Status_Effect",
+                "reward_name": "chancecubes:random_status_effect",
                 "chance_value": -5
             },
             {
-                "reward_name": "chancecubes:Want_To_Build_A_Snowman",
+                "reward_name": "chancecubes:want_to_build_a_snowman",
                 "chance_value": 15
             },
             {
-                "reward_name": "chancecubes:Wool",
+                "reward_name": "chancecubes:wool",
                 "chance_value": 20
             },
             {
-                "reward_name": "chancecubes:Cake",
+                "reward_name": "chancecubes:cake",
                 "chance_value": 25
             },
             {
-                "reward_name": "chancecubes:Cube_Rename",
+                "reward_name": "chancecubes:cube_rename",
                 "chance_value": 25
             },
             {
-                "reward_name": "Cobble_Gen",
+                "reward_name": "cobble_gen",
                 "chance_value": 30
             },
             {
-                "reward_name": "chancecubes:EXP",
+                "reward_name": "chancecubes:exp",
                 "chance_value": 35
             },
             {
-                "reward_name": "chancecubes:EXP_Shower",
+                "reward_name": "chancecubes:exp_shower",
                 "chance_value": 35
             },
             {
-                "reward_name": "chancecubes:Bookshelves",
+                "reward_name": "chancecubes:bookshelves",
                 "chance_value": 45
             },
             {
-                "reward_name": "chancecubes:Saplings",
+                "reward_name": "chancecubes:saplings",
                 "chance_value": 50
             },
             {
-                "reward_name": "chancecubes:Cookie-splosion",
+                "reward_name": "chancecubes:cookie-splosion",
                 "chance_value": 60
             },
             {
-                "reward_name": "chancecubes:Farmer",
+                "reward_name": "chancecubes:farmer",
                 "chance_value": 60
             },
             {
-                "reward_name": "chancecubes:Hand_Enchant",
+                "reward_name": "chancecubes:hand_enchant",
                 "chance_value": 80
             },
             {
-                "reward_name": "chancecubes:Giga_Breaker",
+                "reward_name": "chancecubes:giga_breaker",
                 "chance_value": 80
             }
         ],

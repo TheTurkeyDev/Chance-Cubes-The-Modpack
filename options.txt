@@ -131,6 +131,9 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.llor.hotkey:62
+key_key.trashslot.toggle:20
+key_key.trashslot.delete:211
+key_key.trashslot.deleteAll:211:SHIFT
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26

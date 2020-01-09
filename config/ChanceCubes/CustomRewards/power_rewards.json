@@ -1,5 +1,5 @@
 {
-    "Simple_Machine_Chassis": {
+    "simple_machine_chassis": {
         "chance": 85,
         "Item": [
             {
@@ -11,7 +11,7 @@
             }
         ]
     },
-    "Basic_Capacitor": {
+    "basic_capacitor": {
         "chance": 65,
         "Item": [
             {
@@ -23,7 +23,7 @@
             }
         ]
     },
-    "Hopper": {
+    "hopper": {
         "chance": 35,
         "Item": [
             {

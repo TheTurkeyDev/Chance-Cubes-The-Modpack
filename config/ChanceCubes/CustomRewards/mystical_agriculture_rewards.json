@@ -1,11 +1,11 @@
 {
-    "Mystical_AG_Starter_Pack": {
+    "mystical_ag_starter_pack": {
         "chance": 65,
         "Item": [
             {
                 "item": {
                     "id": "mysticalagriculture:crafting",
-                    "damage": 5,
+                    "Damage": 5,
                     "Count": 4
                 }
             },
@@ -17,13 +17,25 @@
             }
         ]
     },
-    "Mystical_AG_Tier_2_Inferium_Seeds": {
+    "mystical_ag_tier_2_inferium_seeds": {
         "chance": 95,
         "Item": [
             {
                 "item": {
                     "id": "mysticalagriculture:tier2_inferium_seeds",
                     "Count": 1
+                }
+            }
+        ]
+    },
+    "mystical_ag_shards": {
+        "chance": 65,
+        "Item": [
+            {
+                "item": {
+                    "id": "mysticalagriculture:crafting",
+                    "Damage": 5,
+                    "Count": 16
                 }
             }
         ]

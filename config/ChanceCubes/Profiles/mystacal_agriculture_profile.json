@@ -3,8 +3,8 @@
         "name": "Introduction To Mystical Agriculture",
         "description": "",
         "rewards_to_enable": [
-            "Mystical_AG_Starter_Pack",
-            "Mystical_AG_Tier_2_Inferium_Seeds"
+            "mystical_ag_starter_pack",
+            "mystical_ag_tier_2_inferium_seeds"
         ],
         "rewards_to_disable": [],
         "triggers": [

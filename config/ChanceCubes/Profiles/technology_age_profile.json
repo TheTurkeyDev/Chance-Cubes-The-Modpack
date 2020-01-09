@@ -1,0 +1,141 @@
+{
+    "technology_age": {
+        "name": "Technology Age",
+        "description": "Profile that triggers when the player enters the technology age.",
+        "rewards_to_enable": [
+            "chancecubes:divine_boots",
+            "chancecubes:divine_chestplate",
+            "chancecubes:divine_helmet",
+            "chancecubes:divine_leggings",
+            "chancecubes:divine_sword",
+            "logic_processor",
+            "engineering_processor",
+            "calculation_processor"
+        ],
+        "rewards_to_disable": [
+            "chancecubes:Troll_Hole",
+            "chancecubes:Witch",
+            "chancecubes:Watch_World_Burn",
+            "chancecubes:Rain",
+            "chancecubes:Ice_Cold",
+            "chancecubes:Fake_TNT",
+            "chancecubes:Saw_Nothing_Diamond",
+            "chancecubes:Cats_And_Dogs",
+            "chancecubes:Cake",
+            "chancecubes:Saplings",
+            "chancecubes:Farmer",
+            "Hopper",
+            "chancecubes:Hot_Tub",
+            "chancecubes:Spawn_Jerry",
+            "chancecubes:Fire_Aspect_Fire",
+            "chancecubes:One_Shot"
+        ],
+        "triggers": [
+            {
+                "type": "advancement",
+                "advancement_res": "triumph:progress/technology_age"
+            }
+        ],
+        "reward_properties": [
+            {
+                "reward_name": "chancecubes:herobrine",
+                "chance_value": -80
+            },
+            {
+                "reward_name": "chancecubes:mob_tower",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:silvermite_stacks",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:skeleton_bats",
+                "chance_value": -50
+            },
+            {
+                "reward_name": "chancecubes:invizible_silverfish",
+                "chance_value": -45
+            },
+            {
+                "reward_name": "chancecubes:guardians",
+                "chance_value": -40
+            },
+            {
+                "reward_name": "chancecubes:boss_demonic_blaze",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:boss_evil_witch",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:boss_mimic",
+                "chance_value": -35
+            },
+            {
+                "reward_name": "chancecubes:cave_spider_web",
+                "chance_value": -30
+            },
+            {
+                "reward_name": "chancecubes:wolves_to_creepers",
+                "chance_value": -20
+            },
+            {
+                "reward_name": "chancecubes:squid_horde",
+                "chance_value": 5
+            },
+            {
+                "reward_name": "chancecubes:redstone_diamond",
+                "chance_value": 10
+            },
+            {
+                "reward_name": "chancecubes:traveller",
+                "chance_value": 15
+            },
+            {
+                "reward_name": "chancecubes:fighter",
+                "chance_value": 25
+            },
+            {
+                "reward_name": "basic_capacitor",
+                "chance_value": 50
+            },
+            {
+                "reward_name": "chancecubes:hand_enchant",
+                "chance_value": 60
+            },
+            {
+                "reward_name": "chancecubes:divine_boots",
+                "chance_value": 95
+            },
+            {
+                "reward_name": "chancecubes:divine_chestplate",
+                "chance_value": 95
+            },
+            {
+                "reward_name": "chancecubes:divine_helmet",
+                "chance_value": 95
+            },
+            {
+                "reward_name": "chancecubes:divine_leggings",
+                "chance_value": 95
+            },
+            {
+                "reward_name": "chancecubes:divine_sword",
+                "chance_value": 95
+            },
+            {
+                "reward_name": "mystical_ag_shards",
+                "chance_value": 35
+            },
+            {
+                "reward_name": "mystical_ag_tier_2_inferium_seeds",
+                "chance_value": 45
+            }
+        ],
+        "sub_profiles": [
+            "advanced_ores_age"
+        ]
+    }
+}
